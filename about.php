@@ -1,19 +1,19 @@
 <!doctype html>
 <html lang="en-US">
 
-<!-- Mirrored from designingmedia.com/bridely/faqs/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 19 Feb 2026 23:12:09 GMT -->
+<!-- Mirrored from designingmedia.com/bridely/about-1/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 19 Feb 2026 23:05:23 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
 	<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<title>FAQ’s &#8211; Bridely</title>
+	<title>About 1 &#8211; Bridely</title>
 <meta name='robots' content='max-image-preview:large' />
 <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
 <link rel="alternate" type="application/rss+xml" title="Bridely &raquo; Feed" href="../fe./home.html" />
 <link rel="alternate" type="application/rss+xml" title="Bridely &raquo; Comments Feed" href="../comments/fe./home.html" />
-<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="../wp-json/oembed/1.0/embed00d0.json?url=https%3A%2F%2Fdesigningmedia.com%2Fbridely%2Ffaqs%2F" />
-<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="../wp-json/oembed/1.0/embed086a?url=https%3A%2F%2Fdesigningmedia.com%2Fbridely%2Ffaqs%2F&amp;format=xml" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="../wp-json/oembed/1.0/embedabfc.json?url=https%3A%2F%2Fdesigningmedia.com%2Fbridely%2Fabout-1%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="../wp-json/oembed/1.0/embed3767?url=https%3A%2F%2Fdesigningmedia.com%2Fbridely%2Fabout-1%2F&amp;format=xml" />
 <style id='wp-img-auto-sizes-contain-inline-css' type='text/css'>
 img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 /*# sourceURL=wp-img-auto-sizes-contain-inline-css */
@@ -55,15 +55,15 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 .woocommerce form .form-row .required { visibility: visible; }
 /*# sourceURL=woocommerce-inline-inline-css */
 </style>
-<link rel='stylesheet' id='bridely-font-css' href='http://fonts.googleapis.com/css?family=Raleway%3A300%2C400%2C500%2C600%7CRaleway%3A600%2C700%26display%3Dswap&amp;ver=1771541375' type='text/css' media='all' />
-<link rel='stylesheet' id='animate-css' href='./wp-content/themes/bridely/assets/css/animateecbb.css?ver=1771541375' type='text/css' media='all' />
-<link rel='stylesheet' id='bootstrap-css' href='./wp-content/themes/bridely/assets/css/bootstrap.minecbb.css?ver=1771541375' type='text/css' media='all' />
+<link rel='stylesheet' id='bridely-font-css' href='http://fonts.googleapis.com/css?family=Raleway%3A300%2C400%2C500%2C600%7CRaleway%3A600%2C700%26display%3Dswap&amp;ver=1771541319' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css' href='./wp-content/themes/bridely/assets/css/animate9fe5.css?ver=1771541319' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css' href='./wp-content/themes/bridely/assets/css/bootstrap.min9fe5.css?ver=1771541319' type='text/css' media='all' />
 <link rel='stylesheet' id='font-awesome-css' href='./wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min1849.css?ver=4.7.0' type='text/css' media='all' />
-<link rel='stylesheet' id='jquery-ui-css' href='./wp-content/themes/bridely/assets/css/jquery-ui.minecbb.css?ver=1771541375' type='text/css' media='all' />
-<link rel='stylesheet' id='flaticon-css' href='./wp-content/themes/bridely/assets/css/flaticonecbb.css?ver=1771541375' type='text/css' media='all' />
-<link rel='stylesheet' id='magnific-popup-css' href='./wp-content/themes/bridely/assets/css/magnific-popupecbb.css?ver=1771541375' type='text/css' media='all' />
-<link rel='stylesheet' id='nice-select-css' href='./wp-content/themes/bridely/assets/css/nice-selectecbb.css?ver=1771541375' type='text/css' media='all' />
-<link rel='stylesheet' id='slick-css' href='./wp-content/themes/bridely/assets/css/slickecbb.css?ver=1771541375' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-css' href='./wp-content/themes/bridely/assets/css/jquery-ui.min9fe5.css?ver=1771541319' type='text/css' media='all' />
+<link rel='stylesheet' id='flaticon-css' href='./wp-content/themes/bridely/assets/css/flaticon9fe5.css?ver=1771541319' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css' href='./wp-content/themes/bridely/assets/css/magnific-popup9fe5.css?ver=1771541319' type='text/css' media='all' />
+<link rel='stylesheet' id='nice-select-css' href='./wp-content/themes/bridely/assets/css/nice-select9fe5.css?ver=1771541319' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css' href='./wp-content/themes/bridely/assets/css/slick9fe5.css?ver=1771541319' type='text/css' media='all' />
 <link rel='stylesheet' id='bridely-style-css' href='./wp-content/themes/bridely/style4d80.css?ver=6.9.1' type='text/css' media='all' />
 <link rel='stylesheet' id='load-fa-pro-css' href='./wp-content/themes/bridely/assets/fonts/fontawesome-pro-v54d80.css?ver=6.9.1' type='text/css' media='all' />
 <link rel='stylesheet' id='load-fa-css' href='./wp-content/themes/bridely/assets/fonts/fontawesome-v64d80.css?ver=6.9.1' type='text/css' media='all' />
@@ -74,14 +74,19 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <link rel='stylesheet' id='popups-css' href='./wp-content/themes/bridely/assets/css/magnific-popup4d80.css?ver=6.9.1' type='text/css' media='all' />
 <link rel='stylesheet' id='bridely-style-css-css' href='./wp-content/themes/bridely/assets/css/bridely4d80.css?ver=6.9.1' type='text/css' media='all' />
 <link rel='stylesheet' id='bridely-responsive-css-css' href='./wp-content/themes/bridely/assets/css/bridely-responsive4d80.css?ver=6.9.1' type='text/css' media='all' />
-<link rel='stylesheet' id='header-style-css' href='./wp-content/themes/bridely/assets/css/style4901.css?ver=1771541376' type='text/css' media='all' />
-<link rel='stylesheet' id='responsive-css' href='./wp-content/themes/bridely/assets/css/responsive4901.css?ver=1771541376' type='text/css' media='all' />
+<link rel='stylesheet' id='header-style-css' href='./wp-content/themes/bridely/assets/css/style9fe5.css?ver=1771541319' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-css' href='./wp-content/themes/bridely/assets/css/responsive9fe5.css?ver=1771541319' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-icons-css' href='./wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min7f15.css?ver=5.47.0' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-frontend-css' href='./wp-content/uploads/elementor/css/custom-frontend.min4dc7.css?ver=1771384841' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-post-6-css' href='./wp-content/uploads/elementor/css/post-64dc7.css?ver=1771384841' type='text/css' media='all' />
+<link rel='stylesheet' id='widget-heading-css' href='./wp-content/plugins/elementor/assets/css/widget-heading.min4d16.css?ver=3.35.5' type='text/css' media='all' />
+<link rel='stylesheet' id='widget-icon-list-css' href='./wp-content/uploads/elementor/css/custom-widget-icon-list.min4dc7.css?ver=1771384841' type='text/css' media='all' />
+<link rel='stylesheet' id='e-animation-float-css' href='./wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-float.min4d16.css?ver=3.35.5' type='text/css' media='all' />
 <link rel='stylesheet' id='widget-image-css' href='./wp-content/plugins/elementor/assets/css/widget-image.min4d16.css?ver=3.35.5' type='text/css' media='all' />
-<link rel='stylesheet' id='widget-accordion-css' href='./wp-content/uploads/elementor/css/custom-widget-accordion.min4dc7.css?ver=1771384841' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-post-13698-css' href='./wp-content/uploads/elementor/css/post-136988b29.css?ver=1771423883' type='text/css' media='all' />
+<link rel='stylesheet' id='widget-counter-css' href='./wp-content/plugins/elementor/assets/css/widget-counter.min4d16.css?ver=3.35.5' type='text/css' media='all' />
+<link rel='stylesheet' id='widget-progress-css' href='./wp-content/uploads/elementor/css/custom-widget-progress.min4dc7.css?ver=1771384841' type='text/css' media='all' />
+<link rel='stylesheet' id='widget-video-css' href='./wp-content/plugins/elementor/assets/css/widget-video.min4d16.css?ver=3.35.5' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-3702-css' href='./wp-content/uploads/elementor/css/post-3702805a.css?ver=1771423875' type='text/css' media='all' />
 <link rel='stylesheet' id='moove_gdpr_frontend-css' href='./wp-content/plugins/gdpr-cookie-compliance/dist/styles/gdpr-main3a40.css?ver=5.0.11' type='text/css' media='all' />
 <style id='moove_gdpr_frontend-inline-css' type='text/css'>
 #moove_gdpr_cookie_modal,#moove_gdpr_cookie_info_bar,.gdpr_cookie_settings_shortcode_content{font-family:&#039;Nunito&#039;,sans-serif}#moove_gdpr_save_popup_settings_button{background-color:#373737;color:#fff}#moove_gdpr_save_popup_settings_button:hover{background-color:#000}#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton,#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton{background-color:#0C4DA2}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder a.mgbutton,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder button.mgbutton,.gdpr_cookie_settings_shortcode_content .gdpr-shr-button.button-green{background-color:#0C4DA2;border-color:#0C4DA2}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder a.mgbutton:hover,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder button.mgbutton:hover,.gdpr_cookie_settings_shortcode_content .gdpr-shr-button.button-green:hover{background-color:#fff;color:#0C4DA2}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close span.gdpr-icon{background-color:#0C4DA2;border:1px solid #0C4DA2}#moove_gdpr_cookie_info_bar span.moove-gdpr-infobar-allow-all.focus-g,#moove_gdpr_cookie_info_bar span.moove-gdpr-infobar-allow-all:focus,#moove_gdpr_cookie_info_bar button.moove-gdpr-infobar-allow-all.focus-g,#moove_gdpr_cookie_info_bar button.moove-gdpr-infobar-allow-all:focus,#moove_gdpr_cookie_info_bar span.moove-gdpr-infobar-reject-btn.focus-g,#moove_gdpr_cookie_info_bar span.moove-gdpr-infobar-reject-btn:focus,#moove_gdpr_cookie_info_bar button.moove-gdpr-infobar-reject-btn.focus-g,#moove_gdpr_cookie_info_bar button.moove-gdpr-infobar-reject-btn:focus,#moove_gdpr_cookie_info_bar span.change-settings-button.focus-g,#moove_gdpr_cookie_info_bar span.change-settings-button:focus,#moove_gdpr_cookie_info_bar button.change-settings-button.focus-g,#moove_gdpr_cookie_info_bar button.change-settings-button:focus{-webkit-box-shadow:0 0 1px 3px #0C4DA2;-moz-box-shadow:0 0 1px 3px #0C4DA2;box-shadow:0 0 1px 3px #0C4DA2}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close i:hover,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close span.gdpr-icon:hover,#moove_gdpr_cookie_info_bar span[data-href]>u.change-settings-button{color:#0C4DA2}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li.menu-item-selected a span.gdpr-icon,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li.menu-item-selected button span.gdpr-icon{color:inherit}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li a span.gdpr-icon,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li button span.gdpr-icon{color:inherit}#moove_gdpr_cookie_modal .gdpr-acc-link{line-height:0;font-size:0;color:transparent;position:absolute}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close:hover i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li a,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li button,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li button i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li a i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content a:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content span.change-settings-button:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.change-settings-button:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content u.change-settings-button:hover,#moove_gdpr_cookie_info_bar span[data-href]>u.change-settings-button,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton.focus-g,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton.focus-g,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.focus-g,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.focus-g,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton:focus,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton:focus,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a:focus,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button:focus,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content span.change-settings-button.focus-g,span.change-settings-button:focus,button.change-settings-button.focus-g,button.change-settings-button:focus,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content u.change-settings-button.focus-g,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content u.change-settings-button:focus{color:#0C4DA2}#moove_gdpr_cookie_modal .moove-gdpr-branding.focus-g span,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main a.focus-g,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .gdpr-cd-details-toggle.focus-g{color:#0C4DA2}#moove_gdpr_cookie_modal.gdpr_lightbox-hide{display:none}
@@ -90,7 +95,9 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <link rel='stylesheet' id='elementor-gf-local-jost-css' href='./wp-content/uploads/elementor/google-fonts/css/jost9d2b.css?ver=1742270963' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-gf-local-playfairdisplay-css' href='./wp-content/uploads/elementor/google-fonts/css/playfairdisplay500e.css?ver=1742270964' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-icons-shared-0-css' href='./wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min52d5.css?ver=5.15.3' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-regular-css' href='./wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min52d5.css?ver=5.15.3' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-icons-fa-solid-css' href='./wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min52d5.css?ver=5.15.3' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-brands-css' href='./wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min52d5.css?ver=5.15.3' type='text/css' media='all' />
 <script type="text/javascript" src="./wp-includes/js/jquery/jquery.minf43b.js?ver=3.7.1" id="jquery-core-js"></script>
 <script type="text/javascript" src="./wp-includes/js/jquery/jquery-migrate.min5589.js?ver=3.4.1" id="jquery-migrate-js"></script>
 <script type="text/javascript" src="./wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min222e.js?ver=2.7.0-wc.10.5.2" id="wc-jquery-blockui-js" defer="defer" data-wp-strategy="defer"></script>
@@ -109,11 +116,11 @@ var woocommerce_params = {"ajax_url":"/bridely/wp-admin/admin-ajax.php","wc_ajax
 /* ]]> */
 </script>
 <script type="text/javascript" src="./wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min5896.js?ver=10.5.2" id="woocommerce-js" defer="defer" data-wp-strategy="defer"></script>
-<link rel="https://api.w.org/" href="../wp-js./home.html" /><link rel="alternate" title="JSON" type="application/json" href="../wp-json/wp/v2/pages/13698.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.html?rsd" />
+<link rel="https://api.w.org/" href="../wp-js./home.html" /><link rel="alternate" title="JSON" type="application/json" href="../wp-json/wp/v2/pages/3702.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.html?rsd" />
 <meta name="generator" content="WordPress 6.9.1" />
 <meta name="generator" content="WooCommerce 10.5.2" />
-<link rel="canonical" href="./index.html" />
-<link rel='shortlink' href='../indexebba.html?p=13698' />
+<link rel="canonical" href="./home.html" />
+<link rel='shortlink' href='../index3679.html?p=3702' />
 	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
 	<meta name="generator" content="Elementor 3.35.5; features: additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto">
 			<style>
@@ -190,7 +197,7 @@ var woocommerce_params = {"ajax_url":"/bridely/wp-admin/admin-ajax.php","wc_ajax
 		  };</script>
 </head>
 
-<body class="wp-singular page-template page-template-elementor_header_footer page page-id-13698 wp-theme-bridely theme-bridely woocommerce-no-js elementor-default elementor-template-full-width elementor-kit-6 elementor-page elementor-page-13698">
+<body class="wp-singular page-template page-template-elementor_header_footer page page-id-3702 wp-theme-bridely theme-bridely woocommerce-no-js elementor-default elementor-template-full-width elementor-kit-6 elementor-page elementor-page-3702">
 <script>
     document.addEventListener("DOMContentLoaded", function () {
     // Function to check if the page is being viewed in the Elementor editor
@@ -242,12 +249,13 @@ var woocommerce_params = {"ajax_url":"/bridely/wp-admin/admin-ajax.php","wc_ajax
 	                    <span class="icon-right"></span>
 	                </button>
 	            </div>
-                <div id="bridely_main_menu" class="collapse navbar-collapse"><ul id="menu-primary-menu" class="navbar-nav"><li class="menu-item"><a href="./index.html">Home</a></li>
-<li class="menu-item"><a href="./about.html">About</a></li>
-<li class="menu-item"><a href="./services.html">Services</a></li>
-<li class="menu-item"><a href="./blog.html">Blog</a></li>
-<li class="menu-item"><a href="./contact.html">Contact</a></li>
-<li class="menu-item current-menu-item"><a href="./faq.html">FAQ</a></li></ul></div>
+                <div id="bridely_main_menu" class="collapse navbar-collapse"><ul id="menu-primary-menu" class="navbar-nav"><li class="menu-item"><a href="./index.php">Home</a></li>
+<li class="menu-item current-menu-item"><a href="./about.php">About</a></li>
+<li class="menu-item"><a href="./services.php">Services</a></li>
+<li class="menu-item"><a href="./blog.php">Blog</a></li>
+<li class="menu-item"><a href="./contact.php">Contact</a></li>
+<li class="menu-item"><a href="./faq.php">FAQ</a></li>
+</ul></div></div>
 	    </nav>
 	</div>
     </div>
@@ -257,178 +265,472 @@ var woocommerce_params = {"ajax_url":"/bridely/wp-admin/admin-ajax.php","wc_ajax
                 <div class="container">
                     <div class="row justify-content-center">
                         <div class="col-sm-12 text-center">
-                                                           <h3 class="title">  FAQ’s</h3>
+                                                           <h3 class="title">  About</h3>
                                 <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed doeiusm tempor incididunt </p>                                                    </div>
                         <div class="col-sm-12 text-center">
                              <ul class="breadcrumb">
-                                 <li class="breadcrumb-list"><a href="./index.html" title="Home ">Home </a></li><li class="breadcrumb-list"><a href="./index.html">FAQ’s</a></li>                             </ul>
+                                 <li class="breadcrumb-list"><a href="./index.html" title="Home ">Home </a></li><li class="breadcrumb-list"><a href="./about.html">About</a></li>                             </ul>
                         </div>
                     </div>
                 </div>
             </div>
-        		<div data-elementor-type="wp-page" data-elementor-id="13698" class="elementor elementor-13698">
-				<div class="elementor-element elementor-element-62b13ad5 e-flex e-con-boxed e-con e-parent" data-id="62b13ad5" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+        		<div data-elementor-type="wp-page" data-elementor-id="3702" class="elementor elementor-3702">
+				<div class="elementor-element elementor-element-a553aeb e-flex e-con-boxed e-con e-parent" data-id="a553aeb" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 					<div class="e-con-inner">
-		<div class="elementor-element elementor-element-6787e089 e-flex e-con-boxed e-con e-child" data-id="6787e089" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-4f823a7 e-flex e-con-boxed e-con e-child" data-id="4f823a7" data-element_type="container" data-e-type="container">
 					<div class="e-con-inner">
-		<div class="elementor-element elementor-element-497f9176 e-flex e-con-boxed e-con e-child" data-id="497f9176" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-3b78a63 e-flex e-con-boxed e-con e-child" data-id="3b78a63" data-element_type="container" data-e-type="container">
 					<div class="e-con-inner">
-		<div class="elementor-element elementor-element-6b1b2a7d e-con-full e-flex e-con e-child" data-id="6b1b2a7d" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-				<div class="elementor-element elementor-element-2c5dfe6f elementor-widget__width-auto elementor-absolute elementor-widget elementor-widget-image" data-id="2c5dfe6f" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
+		<div class="elementor-element elementor-element-e29a614 e-con-full e-flex e-con e-child" data-id="e29a614" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-c7f0ac3 elementor-widget elementor-widget-heading" data-id="c7f0ac3" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-															<img decoding="async" src="./wp-content/uploads/2024/03/dot-shape-banner.html" title="" alt="" loading="lazy" />															</div>
+					<h5 class="elementor-heading-title elementor-size-default">Our Philosophy</h5>				</div>
 				</div>
-				<div class="elementor-element elementor-element-6d657353 elementor-widget elementor-widget-image" data-id="6d657353" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-element elementor-element-dbdfb5f elementor-widget elementor-widget-heading" data-id="dbdfb5f" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-															<img fetchpriority="high" decoding="async" width="540" height="436" src="./wp-content/uploads/2024/03/faq-left-img.jpg" class="attachment-full size-full wp-image-13833" alt="" />															</div>
+					<h2 class="elementor-heading-title elementor-size-default">Plan It to Perfection</h2>				</div>
 				</div>
-				<div class="elementor-element elementor-element-b3c936b elementor-widget__width-initial elementor-absolute elementor-hidden-mobile elementor-widget elementor-widget-image" data-id="b3c936b" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
+				<div class="elementor-element elementor-element-706434d elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="706434d" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-															<img decoding="async" width="100" height="113" src="./wp-content/uploads/2022/07/body_bird-e1658928223548-1.png" class="attachment-full size-full wp-image-5593" alt="" />															</div>
+									<p>Xperts Hospitality & Events was founded with one vision: to transform ordinary gatherings into unforgettable celebrations. With over 20 years of experience in the hospitality industry, our team brings expertise, creativity, and precision to every event we design and execute.</p>								</div>
 				</div>
-				</div>
-		<div class="elementor-element elementor-element-d61e7ee e-flex e-con-boxed e-con e-child" data-id="d61e7ee" data-element_type="container" data-e-type="container">
-					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-4e538a5a accordion-section elementor-widget elementor-widget-accordion" data-id="4e538a5a" data-element_type="widget" data-e-type="widget" data-widget_type="accordion.default">
+				<div class="elementor-element elementor-element-6784c47 elementor-align-start elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="6784c47" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
-							<div class="elementor-accordion">
-							<div class="elementor-accordion-item">
-					<h4 id="elementor-tab-title-1311" class="elementor-tab-title" data-tab="1" role="button" aria-controls="elementor-tab-content-1311" aria-expanded="false">
-													<span class="elementor-accordion-icon elementor-accordion-icon-right" aria-hidden="true">
-															<span class="elementor-accordion-icon-closed"><i class="fas fa-arrow-right"></i></span>
-								<span class="elementor-accordion-icon-opened"><i class="fas fa-arrow-down"></i></span>
-														</span>
-												<a class="elementor-accordion-title" tabindex="0">Q: Soluta nobis est eligendi oeio cumque?</a>
-					</h4>
-					<div id="elementor-tab-content-1311" class="elementor-tab-content elementor-clearfix" data-tab="1" role="region" aria-labelledby="elementor-tab-title-1311"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p></div>
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="far fa-check-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Creativity and passion in every detail</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="far fa-check-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Professional team with decades of experience</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="far fa-check-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Personalized planning tailored to your vision</span>
+									</li>
+						</ul>
+						</div>
 				</div>
-							<div class="elementor-accordion-item">
-					<h4 id="elementor-tab-title-1312" class="elementor-tab-title" data-tab="2" role="button" aria-controls="elementor-tab-content-1312" aria-expanded="false">
-													<span class="elementor-accordion-icon elementor-accordion-icon-right" aria-hidden="true">
-															<span class="elementor-accordion-icon-closed"><i class="fas fa-arrow-right"></i></span>
-								<span class="elementor-accordion-icon-opened"><i class="fas fa-arrow-down"></i></span>
-														</span>
-												<a class="elementor-accordion-title" tabindex="0">Q: Repudiandae sint et molestiae non?</a>
-					</h4>
-					<div id="elementor-tab-content-1312" class="elementor-tab-content elementor-clearfix" data-tab="2" role="region" aria-labelledby="elementor-tab-title-1312"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p></div>
-				</div>
-							<div class="elementor-accordion-item">
-					<h4 id="elementor-tab-title-1313" class="elementor-tab-title" data-tab="3" role="button" aria-controls="elementor-tab-content-1313" aria-expanded="false">
-													<span class="elementor-accordion-icon elementor-accordion-icon-right" aria-hidden="true">
-															<span class="elementor-accordion-icon-closed"><i class="fas fa-arrow-right"></i></span>
-								<span class="elementor-accordion-icon-opened"><i class="fas fa-arrow-down"></i></span>
-														</span>
-												<a class="elementor-accordion-title" tabindex="0">Q: Maiores alias consequatur aut perferen?</a>
-					</h4>
-					<div id="elementor-tab-content-1313" class="elementor-tab-content elementor-clearfix" data-tab="3" role="region" aria-labelledby="elementor-tab-title-1313"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p></div>
-				</div>
-							<div class="elementor-accordion-item">
-					<h4 id="elementor-tab-title-1314" class="elementor-tab-title" data-tab="4" role="button" aria-controls="elementor-tab-content-1314" aria-expanded="false">
-													<span class="elementor-accordion-icon elementor-accordion-icon-right" aria-hidden="true">
-															<span class="elementor-accordion-icon-closed"><i class="fas fa-arrow-right"></i></span>
-								<span class="elementor-accordion-icon-opened"><i class="fas fa-arrow-down"></i></span>
-														</span>
-												<a class="elementor-accordion-title" tabindex="0">Q: Assumenda est, omnis dolorreaen?</a>
-					</h4>
-					<div id="elementor-tab-content-1314" class="elementor-tab-content elementor-clearfix" data-tab="4" role="region" aria-labelledby="elementor-tab-title-1314"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p></div>
-				</div>
-							<div class="elementor-accordion-item">
-					<h4 id="elementor-tab-title-1315" class="elementor-tab-title" data-tab="5" role="button" aria-controls="elementor-tab-content-1315" aria-expanded="false">
-													<span class="elementor-accordion-icon elementor-accordion-icon-right" aria-hidden="true">
-															<span class="elementor-accordion-icon-closed"><i class="fas fa-arrow-right"></i></span>
-								<span class="elementor-accordion-icon-opened"><i class="fas fa-arrow-down"></i></span>
-														</span>
-												<a class="elementor-accordion-title" tabindex="0">Q: Deserunt mollitia animi esta soluta nobis?</a>
-					</h4>
-					<div id="elementor-tab-content-1315" class="elementor-tab-content elementor-clearfix" data-tab="5" role="region" aria-labelledby="elementor-tab-title-1315"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p></div>
+				<div class="elementor-element elementor-element-8bbba24 elementor-button-info elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="8bbba24" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-float" href="./contact.php">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Get a Free Quote</span>
+					</span>
+					</a>
 				</div>
 								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-0af1dfe e-con-full e-flex e-con e-child" data-id="0af1dfe" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-4bb1859 elementor-widget__width-initial elementor-absolute elementor-hidden-mobile elementor-hidden-tablet elementor-widget elementor-widget-image" data-id="4bb1859" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="100" height="113" src="./wp-content/uploads/2022/07/body_bird-e1658928262504.png" class="attachment-full size-full wp-image-513" alt="" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-c60d370 elementor-widget__width-inherit elementor-widget elementor-widget-image" data-id="c60d370" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img fetchpriority="high" decoding="async" width="445" height="570" src="./wp-content/uploads/2022/07/about_image1.jpg" class="attachment-full size-full wp-image-3706" alt="" />															</div>
+				</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-5f66780 e-flex e-con-boxed e-con e-parent" data-id="5f66780" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-ae882ac e-flex e-con-boxed e-con e-child" data-id="ae882ac" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-9ddd55f e-con-full e-flex e-con e-child" data-id="9ddd55f" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-f4ae6fd e-con-full e-flex e-con e-child" data-id="f4ae6fd" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-8fe7fdd elementor-widget__width-inherit elementor-widget elementor-widget-image" data-id="8fe7fdd" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="445" height="354" src="./wp-content/uploads/2022/07/better_togather.jpg" class="attachment-full size-full wp-image-801" alt="" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-bff34ff elementor-widget__width-auto elementor-widget-tablet__width-auto elementor-widget-mobile__width-auto elementor-absolute elementor-widget elementor-widget-image" data-id="bff34ff" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="255" height="95" src="./wp-content/uploads/2022/07/wine.jpg" class="attachment-full size-full wp-image-803" alt="" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-c9fe93a elementor-widget__width-auto elementor-widget-mobile__width-auto elementor-absolute elementor-widget elementor-widget-image" data-id="c9fe93a" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="285" height="250" src="./wp-content/uploads/2022/07/roses.jpg" class="attachment-full size-full wp-image-802" alt="" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-960887a e-con-full e-flex e-con e-child" data-id="960887a" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-92a6308 elementor-widget__width-initial elementor-absolute elementor-hidden-mobile elementor-widget elementor-widget-image" data-id="92a6308" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="139" height="100" src="./wp-content/uploads/2022/07/hearts.png" class="attachment-full size-full wp-image-920" alt="" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-008e161 elementor-widget elementor-widget-heading" data-id="008e161" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h5 class="elementor-heading-title elementor-size-default">About Xperts</h5>				</div>
+				</div>
+				<div class="elementor-element elementor-element-2fc3a57 elementor-widget elementor-widget-heading" data-id="2fc3a57" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">What We Do, We Do
+With Excellence</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-3e755c2 elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="3e755c2" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>We believe that every event should reflect the individuality and dreams of our clients. From concept development to execution, we collaborate closely to ensure every detail aligns perfectly with your vision.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-21f6bc6 elementor-button-info elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="21f6bc6" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-float" href="./services.php">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Learn More</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-943e194 e-flex e-con-boxed e-con e-parent" data-id="943e194" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-6b40f90 e-flex e-con-boxed e-con e-child" data-id="6b40f90" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-61eec53 e-con-full counter-box e-flex e-con e-child" data-id="61eec53" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-cb4e038 e-con-full e-flex e-con e-child" data-id="cb4e038" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-e07d849 elementor-widget elementor-widget-counter" data-id="e07d849" data-element_type="widget" data-e-type="widget" data-widget_type="counter.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-counter">
+			<div class="elementor-counter-title">Happy Couples </div>			<div class="elementor-counter-number-wrapper">
+				<span class="elementor-counter-number-prefix">               </span>
+				<span class="elementor-counter-number" data-duration="2000" data-to-value="1565" data-from-value="0">0</span>
+				<span class="elementor-counter-number-suffix">+            </span>
+			</div>
+		</div>
+						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-15b8a27 e-con-full e-flex e-con e-child" data-id="15b8a27" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-f9936c1 elementor-widget elementor-widget-counter" data-id="f9936c1" data-element_type="widget" data-e-type="widget" data-widget_type="counter.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-counter">
+			<div class="elementor-counter-title">Weddings</div>			<div class="elementor-counter-number-wrapper">
+				<span class="elementor-counter-number-prefix"></span>
+				<span class="elementor-counter-number" data-duration="2000" data-to-value="1680" data-from-value=""></span>
+				<span class="elementor-counter-number-suffix">+</span>
+			</div>
+		</div>
+						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-a442869 e-con-full e-flex e-con e-child" data-id="a442869" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-4501c83 elementor-widget elementor-widget-counter" data-id="4501c83" data-element_type="widget" data-e-type="widget" data-widget_type="counter.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-counter">
+			<div class="elementor-counter-title">Decoration</div>			<div class="elementor-counter-number-wrapper">
+				<span class="elementor-counter-number-prefix"></span>
+				<span class="elementor-counter-number" data-duration="2000" data-to-value="845" data-from-value="0" data-delimiter=",">0</span>
+				<span class="elementor-counter-number-suffix">+</span>
+			</div>
+		</div>
+						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-0c5271d e-con-full e-flex e-con e-child" data-id="0c5271d" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-069b009 elementor-widget elementor-widget-counter" data-id="069b009" data-element_type="widget" data-e-type="widget" data-widget_type="counter.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-counter">
+			<div class="elementor-counter-title">Locations</div>			<div class="elementor-counter-number-wrapper">
+				<span class="elementor-counter-number-prefix"></span>
+				<span class="elementor-counter-number" data-duration="2000" data-to-value="175" data-from-value="0">0</span>
+				<span class="elementor-counter-number-suffix">+</span>
+			</div>
+		</div>
+						</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-def7be2 e-flex e-con-boxed e-con e-parent" data-id="def7be2" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-3190774 e-con-full e-flex e-con e-child" data-id="3190774" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-4236ad8 e-con-full e-flex e-con e-child" data-id="4236ad8" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-a8d093f elementor-widget__width-auto elementor-absolute elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-image" data-id="a8d093f" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="100" height="113" src="./wp-content/uploads/2022/08/body_bird.png" class="attachment-full size-full wp-image-6855" alt="" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-8f47573 elementor-widget elementor-widget-heading" data-id="8f47573" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h5 class="elementor-heading-title elementor-size-default">Bridely Fun Facts</h5>				</div>
+				</div>
+				<div class="elementor-element elementor-element-99fb50a elementor-widget elementor-widget-heading" data-id="99fb50a" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Explore our wedding Services</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-0e95143 elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="0e95143" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Lorem ipsum dolor sit amet consectetur adipiscin gelit sed doeiusm tempor incididunt</p>								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-386c849 e-con-full progress-box e-flex e-con e-child" data-id="386c849" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-a019867 elementor-widget elementor-widget-progress" data-id="a019867" data-element_type="widget" data-e-type="widget" data-widget_type="progress.default">
+				<div class="elementor-widget-container">
+								<span class="elementor-title" id="elementor-progress-bar-a019867">
+				Professionality			</span>
+		
+		<div aria-labelledby="elementor-progress-bar-a019867" class="elementor-progress-wrapper progress-info" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="85">
+			<div class="elementor-progress-bar" data-max="85">
+				<span class="elementor-progress-text"></span>
+									<span class="elementor-progress-percentage">85%</span>
+							</div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-ad8d026 elementor-widget elementor-widget-progress" data-id="ad8d026" data-element_type="widget" data-e-type="widget" data-widget_type="progress.default">
+				<div class="elementor-widget-container">
+								<span class="elementor-title" id="elementor-progress-bar-ad8d026">
+				Food Ordering			</span>
+		
+		<div aria-labelledby="elementor-progress-bar-ad8d026" class="elementor-progress-wrapper progress-info" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="70">
+			<div class="elementor-progress-bar" data-max="70">
+				<span class="elementor-progress-text"></span>
+									<span class="elementor-progress-percentage">70%</span>
+							</div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-7f5662e elementor-widget elementor-widget-progress" data-id="7f5662e" data-element_type="widget" data-e-type="widget" data-widget_type="progress.default">
+				<div class="elementor-widget-container">
+								<span class="elementor-title" id="elementor-progress-bar-7f5662e">
+				Experience And Quality			</span>
+		
+		<div aria-labelledby="elementor-progress-bar-7f5662e" class="elementor-progress-wrapper progress-info" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="90">
+			<div class="elementor-progress-bar" data-max="90">
+				<span class="elementor-progress-text"></span>
+									<span class="elementor-progress-percentage">90%</span>
+							</div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-c3b9162 elementor-widget elementor-widget-progress" data-id="c3b9162" data-element_type="widget" data-e-type="widget" data-widget_type="progress.default">
+				<div class="elementor-widget-container">
+								<span class="elementor-title" id="elementor-progress-bar-c3b9162">
+				Guarantee			</span>
+		
+		<div aria-labelledby="elementor-progress-bar-c3b9162" class="elementor-progress-wrapper progress-info" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="80">
+			<div class="elementor-progress-bar" data-max="80">
+				<span class="elementor-progress-text"></span>
+									<span class="elementor-progress-percentage">80%</span>
+							</div>
+		</div>
+						</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-7812911 e-flex e-con-boxed e-con e-parent" data-id="7812911" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-6616cc9 e-con-full e-flex e-con e-child" data-id="6616cc9" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-3207ce1 elementor-widget elementor-widget-heading" data-id="3207ce1" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h5 class="elementor-heading-title elementor-size-default">Introduction Video</h5>				</div>
+				</div>
+				<div class="elementor-element elementor-element-fcd6424 elementor-widget elementor-widget-heading" data-id="fcd6424" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Bridely Presentation</h2>				</div>
+				</div>
+		<div class="elementor-element elementor-element-95eee51 e-flex e-con-boxed e-con e-child" data-id="95eee51" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-698aeda video-icon elementor-widget elementor-widget-video" data-id="698aeda" data-element_type="widget" data-e-type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=XHOmBV4js_E&quot;,&quot;show_image_overlay&quot;:&quot;yes&quot;,&quot;image_overlay&quot;:{&quot;url&quot;:&quot;https:\/\/designingmedia.com\/bridely\/wp-content\/uploads\/2024\/01\/video-icon.png&quot;,&quot;id&quot;:9418,&quot;size&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;source&quot;:&quot;library&quot;},&quot;lightbox&quot;:&quot;yes&quot;,&quot;video_type&quot;:&quot;youtube&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-wrapper elementor-open-lightbox">
+							<div class="elementor-custom-embed-image-overlay" data-elementor-open-lightbox="yes" data-elementor-lightbox="{&quot;type&quot;:&quot;video&quot;,&quot;videoType&quot;:&quot;youtube&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/embed\/XHOmBV4js_E?feature=oembed&amp;start&amp;end&amp;wmode=opaque&amp;loop=0&amp;controls=0&amp;mute=0&amp;rel=0&amp;cc_load_policy=0&quot;,&quot;autoplay&quot;:&quot;&quot;,&quot;modalOptions&quot;:{&quot;id&quot;:&quot;elementor-lightbox-698aeda&quot;,&quot;entranceAnimation&quot;:&quot;&quot;,&quot;entranceAnimation_tablet&quot;:&quot;&quot;,&quot;entranceAnimation_mobile&quot;:&quot;&quot;,&quot;videoAspectRatio&quot;:&quot;169&quot;}}" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJ0eXBlIjoidmlkZW8iLCJ2aWRlb1R5cGUiOiJ5b3V0dWJlIiwidXJsIjoiaHR0cHM6XC9cL3d3dy55b3V0dWJlLmNvbVwvZW1iZWRcL1hIT21CVjRqc19FP2ZlYXR1cmU9b2VtYmVkJnN0YXJ0JmVuZCZ3bW9kZT1vcGFxdWUmbG9vcD0wJmNvbnRyb2xzPTAmbXV0ZT0wJnJlbD0wJmNjX2xvYWRfcG9saWN5PTAiLCJhdXRvcGxheSI6IiIsIm1vZGFsT3B0aW9ucyI6eyJpZCI6ImVsZW1lbnRvci1saWdodGJveC02OThhZWRhIiwiZW50cmFuY2VBbmltYXRpb24iOiIiLCJlbnRyYW5jZUFuaW1hdGlvbl90YWJsZXQiOiIiLCJlbnRyYW5jZUFuaW1hdGlvbl9tb2JpbGUiOiIiLCJ2aWRlb0FzcGVjdFJhdGlvIjoiMTY5In19">
+											<img loading="lazy" decoding="async" width="120" height="120" src="./wp-content/uploads/2024/01/video-icon.png" class="attachment-full size-full wp-image-9418" alt="" />														</div>
+					</div>
 						</div>
 				</div>
 					</div>
 				</div>
+				</div>
 					</div>
 				</div>
-		<div class="elementor-element elementor-element-691cda17 e-flex e-con-boxed e-con e-child" data-id="691cda17" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-84b9d21 e-flex e-con-boxed e-con e-parent" data-id="84b9d21" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 					<div class="e-con-inner">
-		<div class="elementor-element elementor-element-190ed0f7 e-flex e-con-boxed e-con e-child" data-id="190ed0f7" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-59216f6 e-flex e-con-boxed e-con e-child" data-id="59216f6" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-6bfda316 accordion-section elementor-widget elementor-widget-accordion" data-id="6bfda316" data-element_type="widget" data-e-type="widget" data-widget_type="accordion.default">
+		<div class="elementor-element elementor-element-3f4cb7c e-con-full e-flex e-con e-child" data-id="3f4cb7c" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-804d15c elementor-widget__width-auto elementor-absolute elementor-widget elementor-widget-image" data-id="804d15c" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-							<div class="elementor-accordion">
-							<div class="elementor-accordion-item">
-					<h4 id="elementor-tab-title-1811" class="elementor-tab-title" data-tab="1" role="button" aria-controls="elementor-tab-content-1811" aria-expanded="false">
-													<span class="elementor-accordion-icon elementor-accordion-icon-right" aria-hidden="true">
-															<span class="elementor-accordion-icon-closed"><i class="fas fa-arrow-right"></i></span>
-								<span class="elementor-accordion-icon-opened"><i class="fas fa-arrow-down"></i></span>
-														</span>
-												<a class="elementor-accordion-title" tabindex="0">Q: Eos qui ratione voluptatem sequi?</a>
-					</h4>
-					<div id="elementor-tab-content-1811" class="elementor-tab-content elementor-clearfix" data-tab="1" role="region" aria-labelledby="elementor-tab-title-1811"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p></div>
+															<img loading="lazy" decoding="async" width="139" height="100" src="./wp-content/uploads/2022/07/hearts.png" class="attachment-full size-full wp-image-920" alt="" />															</div>
 				</div>
-							<div class="elementor-accordion-item">
-					<h4 id="elementor-tab-title-1812" class="elementor-tab-title" data-tab="2" role="button" aria-controls="elementor-tab-content-1812" aria-expanded="false">
-													<span class="elementor-accordion-icon elementor-accordion-icon-right" aria-hidden="true">
-															<span class="elementor-accordion-icon-closed"><i class="fas fa-arrow-right"></i></span>
-								<span class="elementor-accordion-icon-opened"><i class="fas fa-arrow-down"></i></span>
-														</span>
-												<a class="elementor-accordion-title" tabindex="0">Q: Dignissimos ducimus qui blanditiis raes?</a>
-					</h4>
-					<div id="elementor-tab-content-1812" class="elementor-tab-content elementor-clearfix" data-tab="2" role="region" aria-labelledby="elementor-tab-title-1812"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p></div>
+				<div class="elementor-element elementor-element-0ec26f6 elementor-widget__width-inherit elementor-widget elementor-widget-image" data-id="0ec26f6" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="150" height="94" src="./wp-content/uploads/2022/07/Design_element.png" class="attachment-full size-full wp-image-700" alt="" />															</div>
 				</div>
-							<div class="elementor-accordion-item">
-					<h4 id="elementor-tab-title-1813" class="elementor-tab-title" data-tab="3" role="button" aria-controls="elementor-tab-content-1813" aria-expanded="false">
-													<span class="elementor-accordion-icon elementor-accordion-icon-right" aria-hidden="true">
-															<span class="elementor-accordion-icon-closed"><i class="fas fa-arrow-right"></i></span>
-								<span class="elementor-accordion-icon-opened"><i class="fas fa-arrow-down"></i></span>
-														</span>
-												<a class="elementor-accordion-title" tabindex="0">Q: Aui officia deserunt mollitia animi?</a>
-					</h4>
-					<div id="elementor-tab-content-1813" class="elementor-tab-content elementor-clearfix" data-tab="3" role="region" aria-labelledby="elementor-tab-title-1813"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p></div>
+				<div class="elementor-element elementor-element-b8a6266 elementor-widget elementor-widget-heading" data-id="b8a6266" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Meet Our Creative
+Event Organizer</h2>				</div>
 				</div>
-							<div class="elementor-accordion-item">
-					<h4 id="elementor-tab-title-1814" class="elementor-tab-title" data-tab="4" role="button" aria-controls="elementor-tab-content-1814" aria-expanded="false">
-													<span class="elementor-accordion-icon elementor-accordion-icon-right" aria-hidden="true">
-															<span class="elementor-accordion-icon-closed"><i class="fas fa-arrow-right"></i></span>
-								<span class="elementor-accordion-icon-opened"><i class="fas fa-arrow-down"></i></span>
-														</span>
-												<a class="elementor-accordion-title" tabindex="0">Q: Soluta nobis est eligendi optio evenie?</a>
-					</h4>
-					<div id="elementor-tab-content-1814" class="elementor-tab-content elementor-clearfix" data-tab="4" role="region" aria-labelledby="elementor-tab-title-1814"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p></div>
+				<div class="elementor-element elementor-element-01751b6 elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="01751b6" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed doeiusm tempor incididunt.</p>								</div>
 				</div>
-							<div class="elementor-accordion-item">
-					<h4 id="elementor-tab-title-1815" class="elementor-tab-title" data-tab="5" role="button" aria-controls="elementor-tab-content-1815" aria-expanded="false">
-													<span class="elementor-accordion-icon elementor-accordion-icon-right" aria-hidden="true">
-															<span class="elementor-accordion-icon-closed"><i class="fas fa-arrow-right"></i></span>
-								<span class="elementor-accordion-icon-opened"><i class="fas fa-arrow-down"></i></span>
-														</span>
-												<a class="elementor-accordion-title" tabindex="0">Q: Reserunt mollitia animi, id est laborum?</a>
-					</h4>
-					<div id="elementor-tab-content-1815" class="elementor-tab-content elementor-clearfix" data-tab="5" role="region" aria-labelledby="elementor-tab-title-1815"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p></div>
+				<div class="elementor-element elementor-element-f47bea9 elementor-button-info elementor-mobile-align-center elementor-align-center elementor-widget elementor-widget-button" data-id="f47bea9" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-float" href="../team./home.html">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Learn More</span>
+					</span>
+					</a>
 				</div>
 								</div>
-						</div>
 				</div>
-					</div>
 				</div>
-		<div class="elementor-element elementor-element-3bbb995b e-con-full e-flex e-con e-child" data-id="3bbb995b" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-				<div class="elementor-element elementor-element-424b3454 elementor-widget__width-auto elementor-absolute elementor-widget elementor-widget-image" data-id="424b3454" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
+		<div class="elementor-element elementor-element-18a927d e-con-full e-flex e-con e-child" data-id="18a927d" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-cced44e elementor-widget elementor-widget-bridely-team" data-id="cced44e" data-element_type="widget" data-e-type="widget" data-widget_type="bridely-team.default">
 				<div class="elementor-widget-container">
-															<img decoding="async" src="./wp-content/uploads/2024/03/dot-shape-banner.html" title="" alt="" loading="lazy" />															</div>
+					<div class="team-section"><div class="row">                        <div class="col-lg-6 col-md-6 col-sm-6">
+                            <a href="../bridely_team/alisha-re./home.html">
+                                <div class="card">
+                                    <figure class="mb-0 category-section-f2">
+                                                                                    <img decoding="async" src="./wp-content/uploads/2024/01/team-img-1.jpg" alt="" class="img-fluid">
+                                                                                </figure>    
+                                    <h6>Alisha Rees</h6>
+                                    <div class="hover_box_plus">
+                                        <ul class="p-0 text-center">
+                                                                                            <li class="text-decoration-none"><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
+                                                                                                <li class="text-decoration-none"><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
+                                                                                                <li class="text-decoration-none"><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
+                                                                                        </ul>
+                                    </div>
+                                </div>
+                            </a>    
+                        </div>
+                                                <div class="col-lg-6 col-md-6 col-sm-6">
+                            <a href="../bridely_team/rhys-cart./home.html">
+                                <div class="card">
+                                    <figure class="mb-0 category-section-f2">
+                                                                                    <img decoding="async" src="./wp-content/uploads/2024/01/team-img-2.jpg" alt="" class="img-fluid">
+                                                                                </figure>    
+                                    <h6>Rhys Carter</h6>
+                                    <div class="hover_box_plus">
+                                        <ul class="p-0 text-center">
+                                                                                            <li class="text-decoration-none"><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
+                                                                                                <li class="text-decoration-none"><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
+                                                                                                <li class="text-decoration-none"><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
+                                                                                        </ul>
+                                    </div>
+                                </div>
+                            </a>    
+                        </div>
+                                                <div class="col-lg-6 col-md-6 col-sm-6">
+                            <a href="../bridely_team/kyle-buckl./home.html">
+                                <div class="card">
+                                    <figure class="mb-0 category-section-f2">
+                                                                                    <img decoding="async" src="./wp-content/uploads/2024/01/team-img-3.jpg" alt="" class="img-fluid">
+                                                                                </figure>    
+                                    <h6>Kyle Buckley</h6>
+                                    <div class="hover_box_plus">
+                                        <ul class="p-0 text-center">
+                                                                                            <li class="text-decoration-none"><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
+                                                                                                <li class="text-decoration-none"><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
+                                                                                                <li class="text-decoration-none"><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
+                                                                                        </ul>
+                                    </div>
+                                </div>
+                            </a>    
+                        </div>
+                                                <div class="col-lg-6 col-md-6 col-sm-6">
+                            <a href="../bridely_team/maisie-walt./home.html">
+                                <div class="card">
+                                    <figure class="mb-0 category-section-f2">
+                                                                                    <img decoding="async" src="./wp-content/uploads/2024/01/team-img-4.jpg" alt="" class="img-fluid">
+                                                                                </figure>    
+                                    <h6>Maisie Walton</h6>
+                                    <div class="hover_box_plus">
+                                        <ul class="p-0 text-center">
+                                                                                            <li class="text-decoration-none"><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
+                                                                                                <li class="text-decoration-none"><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
+                                                                                                <li class="text-decoration-none"><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
+                                                                                        </ul>
+                                    </div>
+                                </div>
+                            </a>    
+                        </div>
+                        </div></div>				</div>
 				</div>
-				<div class="elementor-element elementor-element-571aeca3 elementor-widget elementor-widget-image" data-id="571aeca3" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-0bc7fd3 e-flex e-con-boxed e-con e-parent" data-id="0bc7fd3" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-0d1b47c e-flex e-con-boxed e-con e-child" data-id="0d1b47c" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-c06edf8 e-flex e-con-boxed e-con e-child" data-id="c06edf8" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-b354f8f e-con-full elementor-hidden-mobile e-flex e-con e-child" data-id="b354f8f" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-92d311c elementor-widget__width-initial elementor-absolute elementor-hidden-mobile elementor-widget elementor-widget-image" data-id="92d311c" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img decoding="async" width="540" height="436" src="./wp-content/uploads/2024/03/faq-right-img.jpg" class="attachment-full size-full wp-image-13835" alt="" />															</div>
+															<img decoding="async" width="100" height="113" src="./wp-content/uploads/2022/07/body_bird-e1658928262504.png" class="attachment-full size-full wp-image-513" alt="" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-51f624e e-con-full e-flex e-con e-child" data-id="51f624e" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-7e9d2b7 elementor-widget elementor-widget-image" data-id="7e9d2b7" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="665" height="523" src="./wp-content/uploads/2024/01/story-section-img.jpg" class="attachment-full size-full wp-image-10114" alt="" />															</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-c45453d e-con-full e-flex e-con e-child" data-id="c45453d" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-7672259 e-con-full e-flex e-con e-child" data-id="7672259" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-b81bf01 elementor-widget elementor-widget-image" data-id="b81bf01" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="81" height="80" src="./wp-content/uploads/2022/07/quote_icon_sec8.png" class="attachment-full size-full wp-image-1391" alt="" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-e485f65 elementor-widget elementor-widget-heading" data-id="e485f65" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">Marry Jain &amp; Jamie Foster</h3>				</div>
+				</div>
+				<div class="elementor-element elementor-element-1b3bc08 elementor-widget elementor-widget-text-editor" data-id="1b3bc08" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua quis ipsum suspendisse ultrices</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-24b8ddb elementor-button-info elementor-align-center elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="24b8ddb" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-float" href="../testimoni./home.html">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<i aria-hidden="true" class="fas fa-caret-right"></i>			</span>
+									<span class="elementor-button-text">See the Story </span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-a7f5193 e-con-full elementor-hidden-mobile e-flex e-con e-child" data-id="a7f5193" data-element_type="container" data-e-type="container">
 				</div>
 				</div>
 					</div>
 				</div>
 					</div>
 				</div>
-					</div>
-				</div>
-				</div>
-		  
+	  
     		<div data-elementor-type="page" data-elementor-id="7582" class="elementor elementor-7582">
 				<div class="elementor-element elementor-element-c77fcef footer-reservation e-flex e-con-boxed e-con e-parent" data-id="c77fcef" data-element_type="container" data-e-type="container">
 					<div class="e-con-inner">
@@ -481,7 +783,7 @@ var woocommerce_params = {"ajax_url":"/bridely/wp-admin/admin-ajax.php","wc_ajax
 				</div>
 				<div class="elementor-element elementor-element-56f578d elementor-widget elementor-widget-image" data-id="56f578d" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-																<a href="./index.html">
+																<a href="./home.html">
 							<img width="160" height="50" src="./wp-includes/logo.png" class="attachment-full size-full wp-image-1478" alt="" />								</a>
 															</div>
 				</div>
@@ -527,7 +829,7 @@ var woocommerce_params = {"ajax_url":"/bridely/wp-admin/admin-ajax.php","wc_ajax
 				<div class="elementor-widget-container">
 							<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="./index.html">
+											<a href="./home.html">
 
 												<span class="elementor-icon-list-icon">
 							<i aria-hidden="true" class="fas fa-chevron-right"></i>						</span>
@@ -535,7 +837,7 @@ var woocommerce_params = {"ajax_url":"/bridely/wp-admin/admin-ajax.php","wc_ajax
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="../about./home.html">
+											<a href="./home.html">
 
 												<span class="elementor-icon-list-icon">
 							<i aria-hidden="true" class="fas fa-chevron-right"></i>						</span>
@@ -705,14 +1007,9 @@ Copyright &copy; 2024 Xperts Hospitality & Events. All Rights Reserved          
 	</script>
 	<link rel='stylesheet' id='wc-blocks-style-css' href='./wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks7e0f.css?ver=wc-10.5.2' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-post-7582-css' href='./wp-content/uploads/elementor/css/post-75824dc7.css?ver=1771384841' type='text/css' media='all' />
-<link rel='stylesheet' id='widget-heading-css' href='./wp-content/plugins/elementor/assets/css/widget-heading.min4d16.css?ver=3.35.5' type='text/css' media='all' />
-<link rel='stylesheet' id='e-animation-float-css' href='./wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-float.min4d16.css?ver=3.35.5' type='text/css' media='all' />
 <link rel='stylesheet' id='e-animation-grow-css' href='./wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-grow.min4d16.css?ver=3.35.5' type='text/css' media='all' />
 <link rel='stylesheet' id='widget-social-icons-css' href='./wp-content/plugins/elementor/assets/css/widget-social-icons.min4d16.css?ver=3.35.5' type='text/css' media='all' />
 <link rel='stylesheet' id='e-apple-webkit-css' href='./wp-content/uploads/elementor/css/custom-apple-webkit.min4dc7.css?ver=1771384841' type='text/css' media='all' />
-<link rel='stylesheet' id='widget-icon-list-css' href='./wp-content/uploads/elementor/css/custom-widget-icon-list.min4dc7.css?ver=1771384841' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-icons-fa-brands-css' href='./wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min52d5.css?ver=5.15.3' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-icons-fa-regular-css' href='./wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min52d5.css?ver=5.15.3' type='text/css' media='all' />
 <link rel='stylesheet' id='rs-plugin-settings-css' href='./wp-content/plugins/revslider/sr6/assets/css/rs62837.css?ver=6.7.35' type='text/css' media='all' />
 <style id='rs-plugin-settings-inline-css' type='text/css'>
 #rs-demo-id {}
@@ -749,7 +1046,7 @@ var wpcf7 = {
 <script type="text/javascript" src="./wp-content/themes/bridely/assets/js/imagesloaded.pkgd.mineda1.js?ver=4.1.4" id="imgloaded-js-js"></script>
 <script type="text/javascript" src="./wp-content/themes/bridely/assets/js/slick-animation1f22.js?ver=1.6.2" id="slick-animation-js"></script>
 <script type="text/javascript" src="./wp-content/themes/bridely/assets/js/vendor1f22.js?ver=1.6.2" id="vendor-js"></script>
-<script type="text/javascript" src="./wp-content/themes/bridely/assets/js/main4901.js?ver=1771541376" id="main-js-js"></script>
+<script type="text/javascript" src="./wp-content/themes/bridely/assets/js/main9fe5.js?ver=1771541319" id="main-js-js"></script>
 <script type="text/javascript" src="./wp-content/themes/bridely/assets/js/jquery.slicknav4d80.js?ver=6.9.1" id="jquery.slicknav-js"></script>
 <script type="text/javascript" src="./wp-content/themes/bridely/assets/js/slider4d80.js?ver=6.9.1" id="slider-js"></script>
 <script type="text/javascript" src="./wp-content/themes/bridely/assets/js/scripts4d80.js?ver=6.9.1" id="scripts-js"></script>
@@ -778,14 +1075,15 @@ var wc_order_attribution = {"params":{"lifetime":1.00000000000000008180305391403
 <script type="text/javascript" src="./wp-includes/js/jquery/ui/core.minb37e.js?ver=1.13.3" id="jquery-ui-core-js"></script>
 <script type="text/javascript" id="elementor-frontend-js-before">
 /* <![CDATA[ */
-var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":true},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":true},"version":"3.35.5","is_static":false,"experimentalFeatures":{"additional_custom_breakpoints":true,"container":true,"nested-elements":true,"home_screen":true,"global_classes_should_enforce_capabilities":true,"e_variables":true,"cloud-library":true,"e_opt_in_v4_page":true,"e_components":true,"e_interactions":true,"e_editor_one":true,"import-export-customization":true},"urls":{"assets":"https:\/\/designingmedia.com\/bridely\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/designingmedia.com\/bridely\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/designingmedia.com\/bridely\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"358e0df259"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet","viewport_laptop"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":13698,"title":"FAQ%E2%80%99s%20%E2%80%93%20Bridely","excerpt":"","featuredImage":false}};
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":true},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":true},"version":"3.35.5","is_static":false,"experimentalFeatures":{"additional_custom_breakpoints":true,"container":true,"nested-elements":true,"home_screen":true,"global_classes_should_enforce_capabilities":true,"e_variables":true,"cloud-library":true,"e_opt_in_v4_page":true,"e_components":true,"e_interactions":true,"e_editor_one":true,"import-export-customization":true},"urls":{"assets":"https:\/\/designingmedia.com\/bridely\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/designingmedia.com\/bridely\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/designingmedia.com\/bridely\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"358e0df259"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet","viewport_laptop"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":10062,"title":"About%201%20%E2%80%93%20Bridely","excerpt":"","featuredImage":"https:\/\/designingmedia.com\/bridely\/wp-content\/uploads\/2024\/01\/team-img-4.jpg"}};
 //# sourceURL=elementor-frontend-js-before
 /* ]]> */
 </script>
 <script type="text/javascript" src="./wp-content/plugins/elementor/assets/js/frontend.min4d16.js?ver=3.35.5" id="elementor-frontend-js"></script>
+<script type="text/javascript" src="./wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min3958.js?ver=0.2.1" id="jquery-numerator-js"></script>
 <script type="text/javascript" id="moove_gdpr_frontend-js-extra">
 /* <![CDATA[ */
-var moove_frontend_gdpr_scripts = {"ajaxurl":"https://designingmedia.com/bridely/wp-admin/admin-ajax.php","post_id":"13698","plugin_dir":"https://designingmedia.com/bride./wp-content/plugins/gdpr-cookie-compliance","show_icons":"all","is_page":"1","ajax_cookie_removal":"false","strict_init":"2","enabled_default":{"strict":1,"third_party":0,"advanced":0,"performance":0,"preference":0},"geo_location":"false","force_reload":"false","is_single":"","hide_save_btn":"false","current_user":"0","cookie_expiration":"365","script_delay":"2000","close_btn_action":"1","close_btn_rdr":"","scripts_defined":"{\"cache\":true,\"header\":\"\",\"body\":\"\",\"footer\":\"\",\"thirdparty\":{\"header\":\"\",\"body\":\"\",\"footer\":\"\"},\"strict\":{\"header\":\"\",\"body\":\"\",\"footer\":\"\"},\"advanced\":{\"header\":\"\",\"body\":\"\",\"footer\":\"\"}}","gdpr_scor":"true","wp_lang":"","wp_consent_api":"false","gdpr_nonce":"d4ff222233"};
+var moove_frontend_gdpr_scripts = {"ajaxurl":"https://designingmedia.com/bridely/wp-admin/admin-ajax.php","post_id":"3702","plugin_dir":"https://designingmedia.com/bride./wp-content/plugins/gdpr-cookie-compliance","show_icons":"all","is_page":"1","ajax_cookie_removal":"false","strict_init":"2","enabled_default":{"strict":1,"third_party":0,"advanced":0,"performance":0,"preference":0},"geo_location":"false","force_reload":"false","is_single":"","hide_save_btn":"false","current_user":"0","cookie_expiration":"365","script_delay":"2000","close_btn_action":"1","close_btn_rdr":"","scripts_defined":"{\"cache\":true,\"header\":\"\",\"body\":\"\",\"footer\":\"\",\"thirdparty\":{\"header\":\"\",\"body\":\"\",\"footer\":\"\"},\"strict\":{\"header\":\"\",\"body\":\"\",\"footer\":\"\"},\"advanced\":{\"header\":\"\",\"body\":\"\",\"footer\":\"\"}}","gdpr_scor":"true","wp_lang":"","wp_consent_api":"false","gdpr_nonce":"d4ff222233"};
 //# sourceURL=moove_gdpr_frontend-js-extra
 /* ]]> */
 </script>
@@ -930,5 +1228,5 @@ const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(
 	<link rel="stylesheet" href="./wp-content/themes/bridely/assets/css/responsive.css" type="text/css" media="all">
 	    </body>
 
-<!-- Mirrored from designingmedia.com/bridely/faqs/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 19 Feb 2026 23:12:41 GMT -->
+<!-- Mirrored from designingmedia.com/bridely/about-1/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 19 Feb 2026 23:06:09 GMT -->
 </html>
