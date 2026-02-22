@@ -1,0 +1,77 @@
+/* Elementor Sections Responsive Css */
+@media only screen and (min-width: 1921px) {
+    .instagram-feed-section { background-size: cover !important; }
+}
+@media screen and (min-width: 1367px) and (max-width: 1600px){
+}
+@media only screen and (max-width: 1366px) {
+	.video-icon { width: 100px !important; height: 100px !important; }
+	.video-icon img { width: 100px !important; height: 76px !important; }
+    .form-section .form-group .form-control { height: 56px !important; }
+    .form-section .icons-form { top: 21px; font-size: 14px; }
+    .form-section .fas.fa-users.icons-form { font-size: 11px; top: 22px; }
+    .form-section .form-group select { background-position: 88.5% 23px; }
+    .form-section .form-group.message .form-control { background-position: 94.6% 23px; }
+    .form-section .submit { padding: 16px 45px 16px 45px !important; }
+    .get-in-touch .form_style { height: 55px; }
+    .get-in-touch select { background-position: 92% 21px; }
+    .get-in-touch .wpcf7-not-valid-tip { top: 58px; left: 20px; }
+    .accordion-section .elementor-accordion-icon { font-size: 18px; top: 2px; }
+}
+@media only screen and (max-width: 1024px) {
+    .video-icon { width: 90px !important; height: 90px !important; }
+    .video-icon img { width: 90px !important; height: 66px !important; }
+    .form-section .form-group .form-control { height: 50px !important; }
+    .form-section .icons-form { top: 18px; }
+    .form-section .fas.fa-users.icons-form { top: 19px; }
+    .form-section .form-group select { background-position: 88.5% 20px; background-size: 10px; }
+    .form-section .form-group.message .form-control { background-position: 94.6% 20px; }
+    .form-section .submit { line-height: 18px !important; font-size: 16px !important; padding: 14px 30px 14px 30px !important; }
+    .form-section .form-group-outer { gap: 20px; }
+    .form-section .form-group { margin-bottom: 20px; width: 50%; }
+    .instagram-feed-box .feed-btn { position: absolute; top: 35%; left: 0; right: 0; }
+    .progress-box .elementor-widget-progress .elementor-progress-wrapper { margin-top: 5px; }
+    .get-in-touch .appointment-btn { font-size: 14px !important; line-height: 14px !important; padding: 16px 30px !important; }
+    .get-in-touch .form_style { height: 45px; font-size: 14px; line-height: 14px; padding: 12px 12px; }
+    .get-in-touch textarea { height: 100px !important; }
+    .get-in-touch select { background-position: 92% 19px; background-size: 8px; }
+    .get-in-touch .wpcf7-not-valid-tip { top: 48px; left: 15px; }
+    .home-2-counter-box .elementor-counter .elementor-counter-number-suffix { top: -8px; font-size: 24px; }  
+    .home-2-form-section .icons-form { top: 46px !important; }
+    .home-2-form-section .fas.fa-users.icons-form { top: 47px !important; }
+    .home-2-form-section .form-group.message select.form-control { background-position: 94.6% 20px; }
+    .page-id-12449 .footer-reservation { margin-top: -30px; }
+    .accordion-section .elementor-accordion-item { margin-bottom: 20px; }
+    .accordion-section .elementor-accordion-icon { font-size: 16px; }
+}
+@media only screen and (max-width: 880px) {
+    .form-section .form-group { width: 47%; }
+    .home-2-form-section .form-group { width: 50%; }
+}
+@media only screen and (max-width: 767px) {
+    .video-icon { width: 80px !important; height: 80px !important; }
+    .video-icon img { width: 80px !important; height: 56px !important; }
+    .form-section .form-group { width: 50%; }
+    .form-section .submit { line-height: 16px !important; font-size: 14px !important;  padding: 12px 20px 12px 20px !important; }
+    .instagram-feed-box:hover .elementor-widget-image .elementor-widget-container:after { width: 255px; right: 0; margin: 0 auto; }
+    .instagram-feed-box .feed-btn { top: 38%; }
+    .get-in-touch select { background-position: 95% 19px; }
+    .home-2-counter-box .elementor-counter .elementor-counter-number-suffix { top: -5px; font-size: 20px; }
+    .home-2-video-icon { width: 35px !important; height: 35px !important; }
+    .home-2-video-icon img { width: 35px !important; height: 35px !important; }
+    .home-2-form-section .submit { padding: 15px 20px 15px 20px !important; }
+    .home-2-form-section .form-group label { font-size: 14px; line-height: 14px; }
+    .accordion-section .elementor-accordion-icon { font-size: 14px; }
+}
+@media only screen and (max-width: 575px) {
+    .instagram-feed-box:hover .elementor-widget-image .elementor-widget-container:after { width: 100%; }
+    .home-2-form-section .form-group { width: 100%; }
+    .home-2-form-section .form-group-outer { display: block; }
+    .home-2-form-section .form-group.message {  width: 100%; margin-bottom: 20px; }
+    .home-2-form-section .form-group.submit-outer { padding-top: 0; }
+    .home-2-form-section .submit { padding: 13px 20px 13px 20px !important; }
+}
+@media only screen and (max-width: 575px) {
+    .form-section .form-group { width: 47%; }
+    .home-2-form-section .form-group { width: 100%; }
+}

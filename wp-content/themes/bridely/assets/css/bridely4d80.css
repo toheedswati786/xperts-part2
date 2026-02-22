@@ -1,0 +1,275 @@
+/* Elementor Sections Css */
+/* Generic css */
+.relative-content .e-con-inner {
+    position: relative;
+}
+/* Home 01 */
+/* Video Section */
+.video-icon {
+    width: 120px !important;
+    height: 120px !important;
+}
+.video-icon img {
+    width: 120px !important;
+    height: 96px !important;
+}
+/* Form Section */
+.form-section .form-group-outer {
+    display: flex;
+    gap: 30px;
+}
+.form-section p {
+    margin-bottom: 0;
+}
+.form-section .form-group {
+    position: relative;
+    margin-bottom: 30px;
+    width: 50%;
+}
+.form-section .form-group .form-control {
+    color: #999999;
+    font-size: 14px;
+    font-weight: 300;
+    height: 62px !important;
+    line-height: 18px;
+    padding: 10px 40px;
+    border-radius: 100px;
+    border: 1px solid #daeded;
+    width: 100%;
+    box-shadow: none;
+    text-indent: 0;
+}
+.form-section .icons-form{
+    position: absolute;
+    left: 18px;
+    top: 22px;
+    color: var(--e-global-color-accent);
+    z-index: 1;
+    font-size: 16px;
+}
+.form-section .fas.fa-users.icons-form {
+    font-size: 13px;
+    top: 25px;
+}
+.form-section .submit {
+    color: var(--e-global-color-white) !important;
+    background: var(--e-global-color-accent) !important;
+    border-radius: 100px !important;
+    padding: 17px 55px 17px 55px !important;
+    display: inline-block;
+    position: relative;
+    font-weight: 400;
+    transition: transform ease 300ms;
+    line-height: 20px !important;
+    word-spacing: 2px;
+    font-size: 18px !important;
+    transition: ease-in-out 0.3s;
+    border: 2px solid var(--e-global-color-accent)!important;
+    cursor: pointer;
+}
+.form-section .submit:hover {
+    background: var(--e-global-color-secondary)!important;
+    border: 2px solid var(--e-global-color-secondary)!important;
+}
+.form-section .submit-outer {
+    text-align: center;
+}
+.form-section .form-group select {
+    -webkit-appearance: none;
+    background-repeat: no-repeat;
+    background-position: 88.5% 25px;
+    background-image:url(../img/dropdown-arrow.png);
+}
+.form-section .form-group.message {
+    width: 100%;
+}
+.form-section .form-group.message .form-control {
+    background-position: 94.6% 26px;
+    padding: 10px 21px;
+}
+/* Instagram Feed Section */
+.instagram-feed-box {
+    position: relative;
+}
+.instagram-feed-box .feed-btn {
+    opacity: 0;
+    transition: all 0.3s ease-in-out;
+}
+.instagram-feed-box:hover .feed-btn {
+    opacity: 1;
+}
+.instagram-feed-box:hover .elementor-widget-image .elementor-widget-container:after {
+    content: "";
+    background-color: rgba(244,164,146,0.5);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 3px solid var(--e-global-color-white);
+}
+/* About Page */
+/* Counter Section */
+.counter-box .elementor-counter-number-wrapper {
+    margin-bottom: 10px;
+}
+/* Progress Section */
+.progress-box .elementor-widget-progress .elementor-progress-wrapper {
+    margin-top: 12px;
+}
+/* Contact Page */
+/* Contact Form */
+.get-in-touch .form_style {
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 28px;
+    background-color: var(--e-global-color-white);
+    color: var(--e-global-color-text);
+    border: 2px solid var(--e-global-color-white);
+    border-radius: 29px !important;
+    padding: 12px 17px;
+    width: 100%;
+    overflow: visible;
+    outline: none;
+    height: 58px;
+    margin-bottom:20px;
+}
+.get-in-touch .form_style:focus {
+    border: 2px solid var(--e-global-color-white);
+}
+.get-in-touch .form_style::-ms-input-placeholder { /* Edge 12-18 */
+    color: var(--e-global-color-text);
+}
+.get-in-touch .form_style::placeholder {
+    color: var(--e-global-color-text);
+}
+.get-in-touch select {
+    -webkit-appearance: none;
+    background-repeat: no-repeat;
+    background-position: 92% 22px;
+    background-image: url(../img/dropdown-arrow.png);
+    text-indent: 0;
+}
+.get-in-touch .appointment-btn {
+    font-weight: 400 !important;
+    font-size: 18px !important;
+    line-height: 20px !important;
+    color: var(--e-global-color-white) !important;
+    padding: 18px 70px !important;
+    display: inline-block;
+    border-radius: 100px !important;
+    background-color: transparent !important;
+    outline: none;
+    transition: all 0.3s ease-in-out;
+    width: 100%;
+    border: 1px solid var(--e-global-color-white);
+    cursor: pointer;
+}
+.get-in-touch .appointment-btn:hover {
+    color: var(--e-global-color-accent) !important;
+    background-color: var(--e-global-color-white) !important;
+}
+.get-in-touch .appointment-btn:focus {
+    border: 1px solid var(--e-global-color-white);
+}
+.get-in-touch textarea {
+    resize: none;
+    height: 120px !important;
+    margin-bottom: 11px !important;
+}
+.get-in-touch p {
+    margin-bottom: 0;
+}
+.get-in-touch .wpcf7-not-valid-tip {
+    top: 60px;
+}
+/* Contact Box */
+.contact-box:hover .elementor-widget-heading .elementor-heading-title {
+    color: var(--e-global-color-secondary) !important;
+}
+.contact-box:hover .elementor-widget-icon .elementor-widget-container {
+    background: var(--e-global-color-secondary) !important;
+}
+/* Home 2 */
+/* Counter Section */
+.home-2-counter-box:hover .image {
+    background-color: var(--e-global-color-secondary) !important;
+}
+.home-2-counter-box:hover .elementor-counter .elementor-counter-number-wrapper {
+    color: var(--e-global-color-secondary) !important;
+}
+.home-2-counter-box .elementor-counter .elementor-counter-number-suffix {
+    position: relative;
+    top: -10px;
+    font-size: 30px;
+}
+/* Planning Section */
+.home-2-video-icon {
+    width: 42px !important;
+    height: 42px !important;
+}
+.home-2-video-icon img {
+    width: 42px !important;
+    height: 42px !important;
+}
+/* Form Section */
+.home-2-form-section .form-group label {
+    font-size: 16px;
+    line-height: 16px;
+    font-weight: 400;
+    color: var(--e-global-color-black);
+    margin-bottom: 12px;
+    display: block;
+}
+.home-2-form-section .form-group br {
+    display: none;
+}
+.home-2-form-section .form-group .form-control {
+    background: var(--e-global-color-light-green);
+    height: 56px !important;
+}
+.home-2-form-section .form-group.message select.form-control {
+    -webkit-appearance: none;
+    background-repeat: no-repeat;
+    background-position: 94.6% 24px;
+    background-image: url(../img/dropdown-arrow.png);
+    padding: 10px 21px;
+}
+.home-2-form-section .icons-form {
+    top: 48px !important;
+}
+.home-2-form-section .fas.fa-users.icons-form {
+    font-size: 13px;
+    top: 50px !important;
+}
+.home-2-form-section .form-group.message {
+    width: 50%;
+    margin-bottom: 0;
+}
+.home-2-form-section .submit {
+    width: 100%;
+}
+.home-2-form-section .form-group.submit-outer {
+    padding-top: 28px;
+    margin-bottom: 0;
+}
+/* Home 3 */
+/* About Section */
+.home-3-counter-box .home-2-counter-box:hover .elementor-counter .elementor-counter-number-wrapper {
+    color: var(--e-global-color-white) !important;
+}
+/* Faq Page */
+/* Accordion Section */
+.accordion-section .elementor-accordion-item {
+    border: 1px solid var(--e-global-color-very-light-grayish-cyan) !important;
+    margin-bottom: 24px;
+    border-radius: 20px 20px 0 20px;
+}
+.accordion-section .elementor-accordion-item:last-child {
+    margin-bottom: 0;
+}
+.accordion-section .elementor-accordion-icon {
+    font-size: 20px;
+    position: relative;
+    top: 4px;
+}

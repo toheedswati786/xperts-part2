@@ -1,0 +1,79 @@
+/*!
+Theme Name: Bridely
+Theme URI: hhttp://designingmedia.com/bridely
+Author: Designing Media
+Author URI: http://designingmedia.com
+Description: Immerse yourself in the enchanting world of wedding event planning with Bridely, the quintessential WordPress theme designed to bring your dream celebrations to life. Seamlessly blending elegance and functionality, Bridely offers a comprehensive suite of features tailored specifically for wedding planners, couples, and vendors alike. From exquisite design elements to intuitive planning tools, Bridely ensures every aspect of your wedding journey is as magical as can be. With its responsive design and customizable themes, Bridely allows you to create stunning wedding websites that captivate and inspire. Elevate your wedding planning experience with Bridely and turn your dreams into cherished memories.
+Version: 1.0
+Requires PHP: 7.0
+Tested up to: 5.0
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: bridely
+Tags: wedding event planning, wedding website, bridal themes, vendor management, rsvp management, registry integration, wedding countdown, venue booking, catering services, photography portfolio, floral arrangements, wedding inspiration, bridal fashion, honeymoon planning, personalized wedding experience.
+*/
+
+.no-breadcrumbs.page-title-area:after{ display: none; }
+
+.navbar-area .nav-container .navbar-collapse #menu-all-pages > li + li{ margin-left: 10px; }
+.navbar-area .nav-container .navbar-collapse #menu-all-pages li{ padding: 0 7px; }
+/*Unit test css*/
+.navbar-area .nav-container .logo a.retina-logo{
+	display: none;
+}
+.wpcf7-form-control-wrap {
+    display: block;
+}
+.wpcf7 form.failed .wpcf7-response-output, .wpcf7 form.aborted .wpcf7-response-output, .wpcf7 form.sent .wpcf7-response-output {
+    margin: 1em 0em 0em;
+    text-align: center;
+    font-size: 16px;
+    line-height: 1.5em;
+    border-radius: 100px;
+}
+.wpcf7-not-valid-tip {
+    color: #dc3232;
+    font-size: 14px;
+    line-height: 14px;
+    font-weight: normal;
+    display: block;
+    margin-top: 0;
+    position: absolute;
+    width: auto;
+    display: block;
+    left: 25px;
+    border: none;
+    padding: 0;
+    top: 65px;
+}
+.wpcf7-spinner {
+    display: none;
+}
+.wpcf7 form.invalid .wpcf7-response-output {
+    display: none;
+}
+
+@media only screen and (max-width: 1366px) {
+    .wpcf7-not-valid-tip {
+        font-size: 12px;
+        line-height: 12px;
+        top: 60px;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    .wpcf7-not-valid-tip {
+        top: 53px;
+        left: 20px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .wpcf7-not-valid-tip {
+        top: 52px;
+    }
+    .wpcf7 form.failed .wpcf7-response-output, .wpcf7 form.aborted .wpcf7-response-output, .wpcf7 form.sent .wpcf7-response-output {
+        font-size: 14px;
+    }
+}
+
