@@ -10,8 +10,8 @@
 	<title>Home - Xperts Hospitality & Events</title>
 <meta name='robots' content='max-image-preview:large' />
 <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
-<link rel="alternate" type="application/rss+xml" title="Bridely &raquo; Feed" href="../feed/index.html" />
-<link rel="alternate" type="application/rss+xml" title="Bridely &raquo; Comments Feed" href="../comments/feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="Xperts Hospitality & Events &raquo; Feed" href="../feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="Xperts Hospitality & Events &raquo; Comments Feed" href="../comments/feed/index.html" />
 <link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="../wp-json/oembed/1.0/embed8c8e.json?url=https%3A%2F%2Fdesigningmedia.com%2Fbridely%2Fhome-02-hero%2F" />
 <link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="../wp-json/oembed/1.0/embed739f?url=https%3A%2F%2Fdesigningmedia.com%2Fbridely%2Fhome-02-hero%2F&amp;format=xml" />
 <style id='wp-img-auto-sizes-contain-inline-css' type='text/css'>
@@ -726,7 +726,7 @@ var woocommerce_params = {"ajax_url":"/bridely/wp-admin/admin-ajax.php","wc_ajax
 				<div class="elementor-element elementor-element-a084841 elementor-align-left elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="a084841" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;none&quot;}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 									<div class="elementor-button-wrapper">
-					<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-float" href="./reservations.html">
+					<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-float" href="./reservations.php">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon">
 				<i aria-hidden="true" class="fas fa-clipboard-list"></i>			</span>
@@ -898,7 +898,7 @@ var woocommerce_params = {"ajax_url":"/bridely/wp-admin/admin-ajax.php","wc_ajax
 				<div class="elementor-element elementor-element-d88524a elementor-align-left elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="d88524a" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;none&quot;}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 									<div class="elementor-button-wrapper">
-					<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-float" href="./reservations.html">
+					<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-float" href="./reservations.php">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon">
 				<i aria-hidden="true" class="fas fa-clipboard-list"></i>			</span>
@@ -911,7 +911,7 @@ var woocommerce_params = {"ajax_url":"/bridely/wp-admin/admin-ajax.php","wc_ajax
 				<div class="elementor-element elementor-element-9123701 elementor-button-info elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="9123701" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 									<div class="elementor-button-wrapper">
-					<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-float" href="./services.html">
+					<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-float" href="./services.php">
 						<span class="elementor-button-content-wrapper">
 									<span class="elementor-button-text">Learn More</span>
 					</span>
@@ -935,7 +935,7 @@ var woocommerce_params = {"ajax_url":"/bridely/wp-admin/admin-ajax.php","wc_ajax
 				</div>
 				<div class="elementor-element elementor-element-56f578d elementor-widget elementor-widget-image" data-id="56f578d" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-																<a href="./index.html">
+																<a href="./index.php">
 							<img width="160" height="50" src="./wp-includes/logo.png" class="attachment-full size-full wp-image-1478" alt="" />								</a>
 															</div>
 				</div>
@@ -981,7 +981,7 @@ var woocommerce_params = {"ajax_url":"/bridely/wp-admin/admin-ajax.php","wc_ajax
 				<div class="elementor-widget-container">
 							<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-												<a href="./index.html">
+												<a href="./index.php">
 
 												<span class="elementor-icon-list-icon">
 							<i aria-hidden="true" class="fas fa-chevron-right"></i>						</span>
@@ -989,7 +989,7 @@ var woocommerce_params = {"ajax_url":"/bridely/wp-admin/admin-ajax.php","wc_ajax
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="./about.html">
+											<a href="./about.php">
 
 												<span class="elementor-icon-list-icon">
 							<i aria-hidden="true" class="fas fa-chevron-right"></i>						</span>
@@ -997,7 +997,7 @@ var woocommerce_params = {"ajax_url":"/bridely/wp-admin/admin-ajax.php","wc_ajax
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="./services.html">
+											<a href="./services.php">
 
 												<span class="elementor-icon-list-icon">
 							<i aria-hidden="true" class="fas fa-chevron-right"></i>						</span>
@@ -1005,7 +1005,7 @@ var woocommerce_params = {"ajax_url":"/bridely/wp-admin/admin-ajax.php","wc_ajax
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="./contact.html">
+											<a href="./contact.php">
 
 												<span class="elementor-icon-list-icon">
 							<i aria-hidden="true" class="fas fa-chevron-right"></i>						</span>

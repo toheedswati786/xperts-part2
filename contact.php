@@ -7,7 +7,7 @@
 	<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<title>Contact Us &#8211; Bridely</title>
+	<title>Contact Us</title>
 <meta name='robots' content='max-image-preview:large' />
 <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
 <link rel="alternate" type="application/rss+xml" title="Bridely &raquo; Feed" href="../fe./home.html" />
@@ -118,7 +118,7 @@ var woocommerce_params = {"ajax_url":"/bridely/wp-admin/admin-ajax.php","wc_ajax
 <link rel="https://api.w.org/" href="../wp-js./home.html" /><link rel="alternate" title="JSON" type="application/json" href="../wp-json/wp/v2/pages/5571.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.html?rsd" />
 <meta name="generator" content="WordPress 6.9.1" />
 <meta name="generator" content="WooCommerce 10.5.2" />
-<link rel="canonical" href="./index.html" />
+<link rel="canonical" href="./index.php" />
 <link rel='shortlink' href='../index816f.html?p=5571' />
 	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
 	<meta name="generator" content="Elementor 3.35.5; features: additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto">
@@ -236,10 +236,10 @@ var woocommerce_params = {"ajax_url":"/bridely/wp-admin/admin-ajax.php","wc_ajax
 	        <div class="container nav-container nav-white">
 	            <div class="responsive-mobile-menu">
                     <div class="logo">
-                                             <a class="standard-logo" href="./index.html">
+                                             <a class="standard-logo" href="./index.php">
                 <img src="./wp-includes/logo.png" alt="logo" />
             </a>
-            <a class="retina-logo" href="./index.html">
+            <a class="retina-logo" href="./index.php">
                 <img src="./wp-includes/logo.png" alt="logo" />
             </a>
                                 </div>
@@ -248,12 +248,12 @@ var woocommerce_params = {"ajax_url":"/bridely/wp-admin/admin-ajax.php","wc_ajax
 	                    <span class="icon-right"></span>
 	                </button>
 	            </div>
-                <div id="bridely_main_menu" class="collapse navbar-collapse"><ul id="menu-primary-menu" class="navbar-nav"><li class="menu-item"><a href="./index.html">Home</a></li>
-<li class="menu-item"><a href="./about.html">About</a></li>
-<li class="menu-item"><a href="./services.html">Services</a></li>
-<li class="menu-item"><a href="./blog.html">Blog</a></li>
-<li class="menu-item current-menu-item"><a href="./contact.html">Contact</a></li>
-<li class="menu-item"><a href="./faq.html">FAQ</a></li></ul></div>
+                <div id="bridely_main_menu" class="collapse navbar-collapse"><ul id="menu-primary-menu" class="navbar-nav"><li class="menu-item"><a href="./index.php">Home</a></li>
+<li class="menu-item"><a href="./about.php">About</a></li>
+<li class="menu-item"><a href="./services.php">Services</a></li>
+<li class="menu-item"><a href="./blog.php">Blog</a></li>
+<li class="menu-item current-menu-item"><a href="./contact.php">Contact</a></li>
+<li class="menu-item"><a href="./faq.php">FAQ</a></li></ul></div>
 	    </nav>
 	</div>
     </div>
@@ -267,7 +267,7 @@ var woocommerce_params = {"ajax_url":"/bridely/wp-admin/admin-ajax.php","wc_ajax
                                 <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed doeiusm tempor incididunt </p>                                                    </div>
                         <div class="col-sm-12 text-center">
                              <ul class="breadcrumb">
-                                 <li class="breadcrumb-list"><a href="./index.html" title="Home ">Home </a></li><li class="breadcrumb-list"><a href="./index.html">Contact Us</a></li>                             </ul>
+                                 <li class="breadcrumb-list"><a href="./index.php" title="Home ">Home </a></li><li class="breadcrumb-list"><a href="./contact.php">Contact Us</a></li>                             </ul>
                         </div>
                     </div>
                 </div>
@@ -586,7 +586,7 @@ var woocommerce_params = {"ajax_url":"/bridely/wp-admin/admin-ajax.php","wc_ajax
 				</div>
 				<div class="elementor-element elementor-element-56f578d elementor-widget elementor-widget-image" data-id="56f578d" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-																<a href="./index.html">
+																<a href="./index.php">
 							<img width="160" height="50" src="./wp-includes/logo.png" class="attachment-full size-full wp-image-1478" alt="" />								</a>
 															</div>
 				</div>
@@ -632,7 +632,7 @@ var woocommerce_params = {"ajax_url":"/bridely/wp-admin/admin-ajax.php","wc_ajax
 				<div class="elementor-widget-container">
 							<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="./index.html">
+											<a href="./index.php">
 
 												<span class="elementor-icon-list-icon">
 							<i aria-hidden="true" class="fas fa-chevron-right"></i>						</span>
@@ -640,7 +640,7 @@ var woocommerce_params = {"ajax_url":"/bridely/wp-admin/admin-ajax.php","wc_ajax
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="../about./home.html">
+											<a href="./about.php">
 
 												<span class="elementor-icon-list-icon">
 							<i aria-hidden="true" class="fas fa-chevron-right"></i>						</span>
@@ -648,7 +648,7 @@ var woocommerce_params = {"ajax_url":"/bridely/wp-admin/admin-ajax.php","wc_ajax
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="../services./home.html">
+											<a href="./services.php">
 
 												<span class="elementor-icon-list-icon">
 							<i aria-hidden="true" class="fas fa-chevron-right"></i>						</span>
@@ -656,7 +656,7 @@ var woocommerce_params = {"ajax_url":"/bridely/wp-admin/admin-ajax.php","wc_ajax
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="./index.html">
+											<a href="./index.php">
 
 												<span class="elementor-icon-list-icon">
 							<i aria-hidden="true" class="fas fa-chevron-right"></i>						</span>

@@ -7,7 +7,7 @@
 	<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<title>Blog &#8211; Bridely</title>
+	<title>Blog</title>
 <meta name='robots' content='max-image-preview:large' />
 <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
 <link rel="alternate" type="application/rss+xml" title="Bridely &raquo; Feed" href="../fe./home.html" />

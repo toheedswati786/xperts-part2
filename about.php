@@ -7,7 +7,7 @@
 	<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<title>About 1 &#8211; Bridely</title>
+	<title>About Xperts</title>
 <meta name='robots' content='max-image-preview:large' />
 <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
 <link rel="alternate" type="application/rss+xml" title="Bridely &raquo; Feed" href="../fe./home.html" />
@@ -237,10 +237,10 @@ var woocommerce_params = {"ajax_url":"/bridely/wp-admin/admin-ajax.php","wc_ajax
 	        <div class="container nav-container nav-white">
 	            <div class="responsive-mobile-menu">
                     <div class="logo">
-                                             <a class="standard-logo" href="./index.html">
+                                             <a class="standard-logo" href="./index.php">
                 <img src="./wp-includes/logo.png" alt="logo" />
             </a>
-            <a class="retina-logo" href="./index.html">
+            <a class="retina-logo" href="./index.php">
                 <img src="./wp-includes/logo.png" alt="logo" />
             </a>
                                 </div>
