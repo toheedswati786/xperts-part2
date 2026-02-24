@@ -741,7 +741,6 @@
 								<li class="menu-item"><a href="./services.php">Services</a></li>
 								<li class="menu-item current-menu-item"><a href="./blog.php">Blog</a></li>
 								<li class="menu-item"><a href="./contact.php">Contact</a></li>
-								<li class="menu-item"><a href="./faq.php">FAQ</a></li>
 							</ul>
 						</div>
 					</div>
@@ -772,7 +771,7 @@
 					<div class="blog-area">
 						<div class="container">
 							<div class="row custom-gutter">
-								<div class="col-lg-8">
+								<div class="col-lg-12">
 									<div class="blog-inner">
 
 										<div class="single-blog-wrap standard-postbox">
@@ -869,69 +868,6 @@
 										<div class="bridely-pagination text-center">
 										</div>
 									</div>
-								</div>
-
-								<div class="col-lg-4 sidebar-blog right-side">
-									<aside class="sidebar-area sidebar-right">
-										<div id="block-8" class="widget blog-sidebar widget-2 widget_block widget_search">
-											<form role="search" method="get" action="https://designingmedia.com/bridely/" class="wp-block-search__button-outside wp-block-search__text-button wp-block-search"><label class="wp-block-search__label" for="wp-block-search__input-1">Search</label>
-												<div class="wp-block-search__inside-wrapper"><input class="wp-block-search__input" id="wp-block-search__input-1" placeholder="" value="" type="search" name="s" required /><button aria-label="Search" class="wp-block-search__button wp-element-button" type="submit">Search</button></div>
-											</form>
-										</div>
-										<div id="block-10" class="widget blog-sidebar widget-2 widget_block">
-											<div class="wp-block-group">
-												<div class="wp-block-group__inner-container is-layout-constrained wp-block-group-is-layout-constrained">
-													<h2 class="wp-block-heading">Recent Posts</h2>
-
-
-													<ul class="wp-block-latest-posts__list wp-block-latest-posts">
-														<li><a class="wp-block-latest-posts__post-title" href="../tips-for-choosing-the-perfect-wedding-ven./home.html">Tips for Choosing the Perfect Wedding Venue</a></li>
-														<li><a class="wp-block-latest-posts__post-title" href="../budget-friendly-wedding-planning-ti./home.html">Budget-Friendly Wedding Planning Tips</a></li>
-														<li><a class="wp-block-latest-posts__post-title" href="../top-destinations-and-travel-ti./home.html">Top Destinations and Travel Tips</a></li>
-													</ul>
-												</div>
-											</div>
-										</div>
-										<div id="block-12" class="widget blog-sidebar widget-2 widget_block">
-											<div class="wp-block-group">
-												<div class="wp-block-group__inner-container is-layout-constrained wp-block-group-is-layout-constrained">
-													<h2 class="wp-block-heading">Categories</h2>
-
-
-													<ul class="wp-block-categories-list wp-block-categories">
-														<li class="cat-item cat-item-31"><a href="../category/honeymo./home.html">Honeymoon</a>
-														</li>
-														<li class="cat-item cat-item-32"><a href="../category/seasonal-ide./home.html">Seasonal Ideas</a>
-														</li>
-														<li class="cat-item cat-item-33"><a href="../category/venue-selecti./home.html">Venue Selection</a>
-														</li>
-													</ul>
-												</div>
-											</div>
-										</div>
-										<div id="block-14" class="widget blog-sidebar widget-2 widget_block">
-											<div class="wp-block-group">
-												<div class="wp-block-group__inner-container is-layout-constrained wp-block-group-is-layout-constrained">
-													<h2 class="wp-block-heading">Recent Comments</h2>
-
-
-													<div class="has-avatars has-dates has-excerpts no-comments wp-block-latest-comments">No comments to show.</div>
-												</div>
-											</div>
-										</div>
-										<div id="block-16" class="widget blog-sidebar widget-2 widget_block">
-											<div class="wp-block-group">
-												<div class="wp-block-group__inner-container is-layout-constrained wp-block-group-is-layout-constrained">
-													<h2 class="wp-block-heading">Archives</h2>
-
-
-													<ul class="wp-block-archives-list wp-block-archives">
-														<li><a href='../2024/./home.html'>March 2024</a></li>
-													</ul>
-												</div>
-											</div>
-										</div>
-									</aside><!-- #secondary -->
 								</div>
 
 							</div>

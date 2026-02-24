@@ -761,7 +761,6 @@
 								<li class="menu-item"><a href="./services.php">Services</a></li>
 								<li class="menu-item"><a href="./blog.php">Blog</a></li>
 								<li class="menu-item current-menu-item"><a href="./contact.php">Contact</a></li>
-								<li class="menu-item"><a href="./faq.php">FAQ</a></li>
 							</ul>
 						</div>
 				</nav>
@@ -773,8 +772,8 @@
 				<div class="container">
 					<div class="row justify-content-center">
 						<div class="col-sm-12 text-center">
-							<h3 class="title"> Contact Us</h3>
-							<p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed doeiusm tempor incididunt </p>
+							<h3 class="title">Your Event Starts Here — Contact Us</h3>
+							<p>Take the first step toward an extraordinary event. Reach out to Xperts Hospitality & Events today.</p>
 						</div>
 						<div class="col-sm-12 text-center">
 							<ul class="breadcrumb">
@@ -871,7 +870,7 @@
 									</div>
 									<div class="elementor-element elementor-element-6c6138a elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="6c6138a" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
 										<div class="elementor-widget-container">
-											<p>Lorem ipsum dolor sit amet consect etur adipisci ngelitsed do eiu smo d tempor incididunt ut labo re etdo lore magna aliqua quisfipolor.</p>
+											<p>Our team of event experts is dedicated to bringing your vision to life. With years of experience in hospitality and events, we're here to ensure every detail exceeds your expectations. Follow us on Instagram @xperts_hospitality_events and tag your photos to share your memorable moments!</p>
 										</div>
 									</div>
 									<div class="elementor-element elementor-element-63b5c4d elementor-widget elementor-widget-heading" data-id="63b5c4d" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
@@ -959,15 +958,21 @@
 											<div class="elementor-widget-container">
 												<ul class="elementor-icon-list-items">
 													<li class="elementor-icon-list-item">
-														<a href="tel:+123456789111">
+														<a href="tel:+923235599993">
 
-															<span class="elementor-icon-list-text">+(123) 456 789 111</span>
+															<span class="elementor-icon-list-text">0323 5599993</span>
 														</a>
 													</li>
 													<li class="elementor-icon-list-item">
-														<a href="tel:+321111456789">
+														<a href="tel:+923235599997">
 
-															<span class="elementor-icon-list-text">+(321) 111 456 789</span>
+															<span class="elementor-icon-list-text">0323 5599997</span>
+														</a>
+													</li>
+													<li class="elementor-icon-list-item">
+														<a href="tel:+923215802401">
+
+															<span class="elementor-icon-list-text">051 2802401</span>
 														</a>
 													</li>
 												</ul>
@@ -999,7 +1004,7 @@
 											<div class="elementor-widget-container">
 												<ul class="elementor-icon-list-items">
 													<li class="elementor-icon-list-item">
-														<span class="elementor-icon-list-text">121 King Street Melbourne, 3000, Australia</span>
+														<span class="elementor-icon-list-text">115-6, Mezzanine Eagle Plaza, 75 Shami Road, Lahore, Pakistan</span>
 													</li>
 												</ul>
 											</div>
@@ -1030,15 +1035,21 @@
 											<div class="elementor-widget-container">
 												<ul class="elementor-icon-list-items">
 													<li class="elementor-icon-list-item">
-														<a href="mailto:support@bridely.com">
+														<a href="mailto:amrozia@xperts.com.pk">
 
-															<span class="elementor-icon-list-text">support@bridely.com</span>
+															<span class="elementor-icon-list-text">amrozia@xperts.com.pk</span>
 														</a>
 													</li>
 													<li class="elementor-icon-list-item">
-														<a href="mailto:events@bridely.com">
+														<a href="mailto:promila@xperts.com.pk">
 
-															<span class="elementor-icon-list-text">events@bridely.com</span>
+															<span class="elementor-icon-list-text">promila@xperts.com.pk</span>
+														</a>
+													</li>
+													<li class="elementor-icon-list-item">
+														<a href="mailto:queries@xperts.com.pk">
+
+															<span class="elementor-icon-list-text">queries@xperts.com.pk</span>
 														</a>
 													</li>
 												</ul>

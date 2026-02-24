@@ -607,7 +607,7 @@
     <link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.html?rsd" />
     <meta name="generator" content="WordPress 6.9.1" />
     <meta name="generator" content="WooCommerce 10.5.2" />
-    <link rel="canonical" href="./home.html" />
+    <link rel="canonical" href="./index.php" />
     <link rel='shortlink' href='../index3679.html?p=3702' />
     <noscript>
         <style>
@@ -762,7 +762,6 @@
                                 <li class="menu-item"><a href="./services.php">Services</a></li>
                                 <li class="menu-item"><a href="./blog.php">Blog</a></li>
                                 <li class="menu-item"><a href="./contact.php">Contact</a></li>
-                                <li class="menu-item"><a href="./faq.php">FAQ</a></li>
                             </ul>
                         </div>
                     </div>
@@ -776,11 +775,12 @@
                     <div class="row justify-content-center">
                         <div class="col-sm-12 text-center">
                             <h3 class="title"> About</h3>
-                            <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed doeiusm tempor incididunt </p>
+                            <p>Your dream event, our expert planning.
+We create seamless, memorable events tailored to your needs, ensuring every moment is perfectly managed. </p>
                         </div>
                         <div class="col-sm-12 text-center">
                             <ul class="breadcrumb">
-                                <li class="breadcrumb-list"><a href="./index.html" title="Home ">Home </a></li>
+                                <li class="breadcrumb-list"><a href="./index.php" title="Home ">Home </a></li>
                                 <li class="breadcrumb-list"><a href="./about.html">About</a></li>
                             </ul>
                         </div>
@@ -816,17 +816,27 @@
                                                         <li class="elementor-icon-list-item">
                                                             <span class="elementor-icon-list-icon">
                                                                 <i aria-hidden="true" class="far fa-check-circle"></i> </span>
-                                                            <span class="elementor-icon-list-text">Creativity and passion in every detail</span>
+                                                            <span class="elementor-icon-list-text">Creativity</span>
                                                         </li>
                                                         <li class="elementor-icon-list-item">
                                                             <span class="elementor-icon-list-icon">
                                                                 <i aria-hidden="true" class="far fa-check-circle"></i> </span>
-                                                            <span class="elementor-icon-list-text">Professional team with decades of experience</span>
+                                                            <span class="elementor-icon-list-text">Integrity</span>
                                                         </li>
                                                         <li class="elementor-icon-list-item">
                                                             <span class="elementor-icon-list-icon">
                                                                 <i aria-hidden="true" class="far fa-check-circle"></i> </span>
-                                                            <span class="elementor-icon-list-text">Personalized planning tailored to your vision</span>
+                                                            <span class="elementor-icon-list-text">Excellence</span>
+                                                        </li>
+                                                        <li class="elementor-icon-list-item">
+                                                            <span class="elementor-icon-list-icon">
+                                                                <i aria-hidden="true" class="far fa-check-circle"></i> </span>
+                                                            <span class="elementor-icon-list-text">Reliability</span>
+                                                        </li>
+                                                        <li class="elementor-icon-list-item">
+                                                            <span class="elementor-icon-list-icon">
+                                                                <i aria-hidden="true" class="far fa-check-circle"></i> </span>
+                                                            <span class="elementor-icon-list-text">Passion for Perfection</span>
                                                         </li>
                                                     </ul>
                                                 </div>
@@ -902,7 +912,7 @@
                                         </div>
                                         <div class="elementor-element elementor-element-3e755c2 elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="3e755c2" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
                                             <div class="elementor-widget-container">
-                                                <p>We believe that every event should reflect the individuality and dreams of our clients. From concept development to execution, we collaborate closely to ensure every detail aligns perfectly with your vision.</p>
+                                                <p>We believe that every event should reflect the individuality and dreams of our clients. From concept development to execution, we collaborate closely to ensure every detail aligns perfectly with your vision. Our approach blends creativity, elegance, and professionalism.</p>
                                             </div>
                                         </div>
                                         <div class="elementor-element elementor-element-21f6bc6 elementor-button-info elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="21f6bc6" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
@@ -931,7 +941,7 @@
                                         <div class="elementor-element elementor-element-e07d849 elementor-widget elementor-widget-counter" data-id="e07d849" data-element_type="widget" data-e-type="widget" data-widget_type="counter.default">
                                             <div class="elementor-widget-container">
                                                 <div class="elementor-counter">
-                                                    <div class="elementor-counter-title">Happy Couples </div>
+                                                    <div class="elementor-counter-title"><strong>Happy Couples</strong> </div>
                                                     <div class="elementor-counter-number-wrapper">
                                                         <span class="elementor-counter-number-prefix"> </span>
                                                         <span class="elementor-counter-number" data-duration="2000" data-to-value="1565" data-from-value="0">0</span>
@@ -973,10 +983,10 @@
                                         <div class="elementor-element elementor-element-069b009 elementor-widget elementor-widget-counter" data-id="069b009" data-element_type="widget" data-e-type="widget" data-widget_type="counter.default">
                                             <div class="elementor-widget-container">
                                                 <div class="elementor-counter">
-                                                    <div class="elementor-counter-title">Locations</div>
+                                                    <div class="elementor-counter-title">Successful events</div>
                                                     <div class="elementor-counter-number-wrapper">
                                                         <span class="elementor-counter-number-prefix"></span>
-                                                        <span class="elementor-counter-number" data-duration="2000" data-to-value="175" data-from-value="0">0</span>
+                                                        <span class="elementor-counter-number" data-duration="2000" data-to-value="1485" data-from-value="0">0</span>
                                                         <span class="elementor-counter-number-suffix">+</span>
                                                     </div>
                                                 </div>
@@ -999,7 +1009,7 @@
                                 </div>
                                 <div class="elementor-element elementor-element-8f47573 elementor-widget elementor-widget-heading" data-id="8f47573" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                        <h5 class="elementor-heading-title elementor-size-default">Bridely Fun Facts</h5>
+                                        <h5 class="elementor-heading-title elementor-size-default">Xperts Fun Facts</h5>
                                     </div>
                                 </div>
                                 <div class="elementor-element elementor-element-99fb50a elementor-widget elementor-widget-heading" data-id="99fb50a" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
@@ -1009,7 +1019,7 @@
                                 </div>
                                 <div class="elementor-element elementor-element-0e95143 elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="0e95143" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
                                     <div class="elementor-widget-container">
-                                        <p>Lorem ipsum dolor sit amet consectetur adipiscin gelit sed doeiusm tempor incididunt</p>
+                                        <p>From venue selection to final execution, we handle every detail to turn your dream wedding into a magical and memorable celebration.</p>
                                     </div>
                                 </div>
                             </div>
@@ -1080,7 +1090,7 @@
                             </div>
                             <div class="elementor-element elementor-element-fcd6424 elementor-widget elementor-widget-heading" data-id="fcd6424" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
                                 <div class="elementor-widget-container">
-                                    <h2 class="elementor-heading-title elementor-size-default">Bridely Presentation</h2>
+                                    <h2 class="elementor-heading-title elementor-size-default">Xperts Presentation</h2>
                                 </div>
                             </div>
                             <div class="elementor-element elementor-element-95eee51 e-flex e-con-boxed e-con e-child" data-id="95eee51" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
@@ -1122,15 +1132,15 @@
                                     </div>
                                     <div class="elementor-element elementor-element-01751b6 elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="01751b6" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
                                         <div class="elementor-widget-container">
-                                            <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed doeiusm tempor incididunt.</p>
+                                            <p>Led by a visionary founder and a dedicated team,we transform ideas into beautifully crafted experiences tailored to your unique vision.</p>
                                         </div>
                                     </div>
                                     <div class="elementor-element elementor-element-f47bea9 elementor-button-info elementor-mobile-align-center elementor-align-center elementor-widget elementor-widget-button" data-id="f47bea9" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
                                         <div class="elementor-widget-container">
                                             <div class="elementor-button-wrapper">
-                                                <a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-float" href="../team./home.html">
+                                                <a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-float" href="contact.php">
                                                     <span class="elementor-button-content-wrapper">
-                                                        <span class="elementor-button-text">Learn More</span>
+                                                        <span class="elementor-button-text">Get In Touch</span>
                                                     </span>
                                                 </a>
                                             </div>
@@ -1142,13 +1152,14 @@
                                         <div class="elementor-widget-container">
                                             <div class="team-section">
                                                 <div class="row">
-                                                    <div class="col-lg-6 col-md-6 col-sm-6">
+                                                    <div class="col-lg-12 col-md-12 col-sm-12">
                                                         <a href="../bridely_team/alisha-re./home.html">
                                                             <div class="card">
                                                                 <figure class="mb-0 category-section-f2">
                                                                     <img decoding="async" src="./wp-content/uploads/2024/01/team-img-1.jpg" alt="" class="img-fluid">
                                                                 </figure>
-                                                                <h6>Alisha Rees</h6>
+                                                                <h6>Naseer A. Khan</h6>
+                                                                <p style="font-size: 12px; margin: 5px 0;">Founder & Visionary Leader</p>
                                                                 <div class="hover_box_plus">
                                                                     <ul class="p-0 text-center">
                                                                         <li class="text-decoration-none"><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
@@ -1165,7 +1176,8 @@
                                                                 <figure class="mb-0 category-section-f2">
                                                                     <img decoding="async" src="./wp-content/uploads/2024/01/team-img-2.jpg" alt="" class="img-fluid">
                                                                 </figure>
-                                                                <h6>Rhys Carter</h6>
+                                                                <h6>Amrozia Burhan</h6>
+                                                                <p style="font-size: 12px; margin: 5px 0;">Key Accounts Manager</p>
                                                                 <div class="hover_box_plus">
                                                                     <ul class="p-0 text-center">
                                                                         <li class="text-decoration-none"><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
@@ -1182,24 +1194,8 @@
                                                                 <figure class="mb-0 category-section-f2">
                                                                     <img decoding="async" src="./wp-content/uploads/2024/01/team-img-3.jpg" alt="" class="img-fluid">
                                                                 </figure>
-                                                                <h6>Kyle Buckley</h6>
-                                                                <div class="hover_box_plus">
-                                                                    <ul class="p-0 text-center">
-                                                                        <li class="text-decoration-none"><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
-                                                                        <li class="text-decoration-none"><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
-                                                                        <li class="text-decoration-none"><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
-                                                                    </ul>
-                                                                </div>
-                                                            </div>
-                                                        </a>
-                                                    </div>
-                                                    <div class="col-lg-6 col-md-6 col-sm-6">
-                                                        <a href="../bridely_team/maisie-walt./home.html">
-                                                            <div class="card">
-                                                                <figure class="mb-0 category-section-f2">
-                                                                    <img decoding="async" src="./wp-content/uploads/2024/01/team-img-4.jpg" alt="" class="img-fluid">
-                                                                </figure>
-                                                                <h6>Maisie Walton</h6>
+                                                                <h6>Promila Amir</h6>
+                                                                <p style="font-size: 12px; margin: 5px 0;">Business Development Manager</p>
                                                                 <div class="hover_box_plus">
                                                                     <ul class="p-0 text-center">
                                                                         <li class="text-decoration-none"><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>

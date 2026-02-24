@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mailer Test - Xperts Hospitality & Events</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+        .container {
+            background: white;
+            border-radius: 15px;
+            padding: 30px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+        }
+        h1 {
+            color: #0C4DA2;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .form-group {
+            margin-bottom: 20px;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+            color: #333;
+        }
+        input, select, textarea {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid #ddd;
+            border-radius: 8px;
+            font-size: 16px;
+            transition: border-color 0.3s;
+        }
+        input:focus, select:focus, textarea:focus {
+            outline: none;
+            border-color: #0C4DA2;
+        }
+        button {
+            background: linear-gradient(135deg, #0C4DA2 0%, #c7a855 100%);
+            color: white;
+            padding: 15px 30px;
+            border: none;
+            border-radius: 8px;
+            font-size: 18px;
+            cursor: pointer;
+            width: 100%;
+            font-weight: bold;
+            transition: transform 0.2s;
+        }
+        button:hover {
+            transform: translateY(-2px);
+        }
+        .result {
+            margin-top: 20px;
+            padding: 15px;
+            border-radius: 8px;
+            text-align: center;
+            font-weight: bold;
+        }
+        .success {
+            background: #d4edda;
+            color: #155724;
+            border: 1px solid #c3e6cb;
+        }
+        .error {
+            background: #f8d7da;
+            color: #721c24;
+            border: 1px solid #f5c6cb;
+        }
+        .info {
+            background: #d1ecf1;
+            color: #0c5460;
+            border: 1px solid #bee5eb;
+        }
+        .config-info {
+            background: #e2e3e5;
+            border: 1px solid #d6d8db;
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        .config-info h3 {
+            margin-top: 0;
+            color: #495057;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>📧 Mailer Configuration Test</h1>
+        
+        <div class="config-info">
+            <h3>🔧 Current Configuration</h3>
+            <?php
+            require_once 'mailer.php';
+            try {
+                $mailer = new Mailer();
+                $config = $mailer->getConfig();
+                echo "<p><strong>SMTP Host:</strong> " . $config['smtp_host'] . "</p>";
+                echo "<p><strong>Port:</strong> " . $config['smtp_port'] . "</p>";
+                echo "<p><strong>Security:</strong> " . strtoupper($config['smtp_secure']) . "</p>";
+                echo "<p><strong>From Email:</strong> " . $config['from_email'] . "</p>";
+                echo "<p><strong>From Name:</strong> " . $config['from_name'] . "</p>";
+            } catch (Exception $e) {
+                echo "<p class='error'>Configuration Error: " . $e->getMessage() . "</p>";
+            }
+            ?>
+        </div>
+
+        <form id="testForm">
+            <div class="form-group">
+                <label for="testEmail">📧 Test Email Address:</label>
+                <input type="email" id="testEmail" name="testEmail" required 
+                       placeholder="Enter your email to receive test message">
+            </div>
+
+            <div class="form-group">
+                <label for="testType">🧪 Test Type:</label>
+                <select id="testType" name="testType" required>
+                    <option value="">Select test type...</option>
+                    <option value="configuration">SMTP Configuration Test</option>
+                    <option value="contact">Contact Form Email</option>
+                    <option value="newsletter">Newsletter Confirmation</option>
+                </select>
+            </div>
+
+            <div id="contactFields" style="display: none;">
+                <div class="form-group">
+                    <label for="name">👤 Name:</label>
+                    <input type="text" id="name" name="name" placeholder="Your full name">
+                </div>
+                <div class="form-group">
+                    <label for="phone">📞 Phone:</label>
+                    <input type="tel" id="phone" name="phone" placeholder="Your phone number">
+                </div>
+                <div class="form-group">
+                    <label for="service">📋 Service:</label>
+                    <select id="service" name="service">
+                        <option value="Wedding Planning">Wedding Planning</option>
+                        <option value="Corporate Events">Corporate Events</option>
+                        <option value="Social Celebrations">Social Celebrations</option>
+                        <option value="Catering Services">Catering Services</option>
+                        <option value="Venue Booking">Venue Booking</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="message">💬 Message:</label>
+                    <textarea id="message" name="message" rows="4" 
+                              placeholder="Your message..."></textarea>
+                </div>
+            </div>
+
+            <div id="newsletterFields" style="display: none;">
+                <div class="form-group">
+                    <label for="subscriberName">👤 Your Name (optional):</label>
+                    <input type="text" id="subscriberName" name="subscriberName" 
+                           placeholder="Your name for personalized greeting">
+                </div>
+            </div>
+
+            <button type="submit">🚀 Send Test Email</button>
+        </form>
+
+        <div id="result"></div>
+    </div>
+
+    <script>
+        // Show/hide fields based on test type
+        document.getElementById('testType').addEventListener('change', function() {
+            const contactFields = document.getElementById('contactFields');
+            const newsletterFields = document.getElementById('newsletterFields');
+            
+            contactFields.style.display = this.value === 'contact' ? 'block' : 'none';
+            newsletterFields.style.display = this.value === 'newsletter' ? 'block' : 'none';
+        });
+
+        // Handle form submission
+        document.getElementById('testForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            
+            const formData = new FormData(this);
+            const resultDiv = document.getElementById('result');
+            
+            // Show loading message
+            resultDiv.innerHTML = '<div class="result info">📤 Sending test email...</div>';
+            
+            // Send AJAX request
+            fetch('mailer-test-handler.php', {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.success) {
+                    resultDiv.innerHTML = '<div class="result success">✅ ' + data.message + '</div>';
+                } else {
+                    resultDiv.innerHTML = '<div class="result error">❌ ' + data.message + '</div>';
+                }
+            })
+            .catch(error => {
+                resultDiv.innerHTML = '<div class="result error">❌ Error: ' + error.message + '</div>';
+            });
+        });
+    </script>
+</body>
+</html>
